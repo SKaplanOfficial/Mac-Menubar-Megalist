@@ -40,6 +40,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [FileWatch](https://github.com/jawngee/FileWatch)
 - [gitmojiBar](https://apps.apple.com/us/app/gitmojibar-gitmoji-menubar/id1609716594?mt=12)
 - [Gitmoji for macOS](https://github.com/tim-richter/gitmoji_for_mac)
+- [GitStatus](https://github.com/0x2E/GitStatus)
 - [Google Icons Picker](https://github.com/jack-carling/google-icons-picker)
 - [Icon Finder](https://apps.apple.com/us/app/icon-finder-png-ai-svg/id1504869357?mt=12)
 - [iHosts](https://apps.apple.com/us/app/ihosts-etc-hosts-editor/id1102004240?mt=12)
@@ -54,6 +55,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [MacWeb Servers](https://apps.apple.com/us/app/macweb-servers/id1469079631?mt=12)
 - [Maker Goals Menubar](https://makergoals.netlify.app/)
 - [Menubar Devdocs](https://github.com/99darshan/menubar-dev-docs)
+- [MiniSim](https://www.minisim.app)
 - [MNU](https://smittytone.net/mnu/index.html)
 - [Mob Timer](https://apps.apple.com/us/app/mob-timer/id1594924856?mt=12)
 - [Monu](https://github.com/maxogden/monu)
@@ -216,10 +218,12 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Spotish](https://retina.studio/spotish/)
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/)
 - [SpotStatus](https://github.com/joshspicer/SpotStatus)
+- [Status Bar Music Player](https://www.mummymammoth.com/status-bar-music-player)
 - [Synergy](https://wincent.com/products/synergy)
 - [Track Name for iTunes](https://apps.apple.com/us/app/track-name-for-itunes/id622083837?mt=12)
 - [TrayPlay](https://mborgerson.com/trayplay/)
 - [Tray Player Lite](https://apps.apple.com/us/app/tray-player-lite/id1232556394?mt=12)
+- [Tuneful](https://github.com/martinfekete10/Tuneful)
 - [VoicePlay](https://github.com/tb0hdan/voiceplay/)
 - [Which Song Is Playing](https://apps.apple.com/us/app/which-song-is-playing/id6443723745?mt=12)
 - [YouTube Music as a menu bar app](https://github.com/sencerb88/ytmusic-mac)
@@ -378,6 +382,8 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Daybar](https://github.com/stakes/Daybar)
 - [Day-O](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina)
 - [Days Left Lite](https://apps.apple.com/us/app/days-left-lite/id1242931529?mt=12)
+- [Dottt](https://dottt.app)
+- [DownCount](https://apps.apple.com/us/app/downcount-menu-bar-countdown/id6474534456?mt=12)
 - [DSCalendarBar](https://amostodman.github.io/DSCalendarBar/)
 - [EzyCal](https://appyogi.com/webapps/index.php?product_id=48)
 - [Fantastical](https://apps.apple.com/us/app/fantastical-calendar/id975937182?mt=12)
@@ -424,6 +430,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [TinyDateTime](https://andreasfertig.com/apps/tinydatetime/)
 - [Today •](https://apps.apple.com/us/app/today/id6443714928?mt=12)
 - [Up Next](https://apps.apple.com/us/app/up-next/id1355117041?mt=12)
+- [What Week](https://apps.apple.com/us/app/what-week/id6472891132?mt=12)
 
 ### Email
 
@@ -517,6 +524,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Focus Bar](https://apps.apple.com/us/app/focus-bar-quickly-add-todos/id1556900097?mt=12)
 - [Focused Task](https://github.com/RStankov/FocusedTask)
 - [GTasks](https://github.com/say4n/gtasks.app)
+- [Hotlist](https://pqina.nl/hotlist)
 - [Maker Goals Menubar](https://makergoals.netlify.app)
 - [MenuBarTODO](https://apps.apple.com/us/app/menubartodo/id1550343840?mt=12)
 - [MinimaList](https://apps.apple.com/us/app/minimalist-to-do-list-task/id1387764101?mt=12)
@@ -589,6 +597,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Menubar Countdown](https://apps.apple.com/us/app/menubar-countdown/id1485343244?mt=12)
 - [MenubarTimer](https://github.com/phortuin/menubar-timer)
 - [Menu bar Timer](https://github.com/johnyleebrown/menubar-timer)
+- [MenuTimer](https://apps.apple.com/us/app/menutimer-menu-bar-tiny-timer/id6473223526?mt=12)
 - [Menu Timers - High Precision](https://apps.apple.com/us/app/menu-timers-high-precision/id6443546789?mt=12)
 - [Moment](https://fireball.studio/moment)
 - [Moosti](https://www.moosti.com)
@@ -672,6 +681,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [WakeTime](https://github.com/dleicht/waketime/)
 - [Work Day Percentage Display Applet](https://github.com/Benhgift/work_time_percent_applet/)
 - [zClock Lite](https://apps.apple.com/us/app/zclock-lite-topmost-clock/id1489475245?mt=12)
+- [ZenBreak](https://zenbreak.app)
 - [1440](https://apps.apple.com/us/app/1440-minutes-left-today/id1483764819?mt=12)
 
 #### Time Tracking
@@ -711,6 +721,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Timemator Basic](https://apps.apple.com/us/app/timemator-basic/id1458451198?mt=12)
 - [TimeMatters](https://apps.apple.com/us/app/timematters-time-tracker/id1463875140?mt=12)
 - [Time Tracking Pro](https://apps.apple.com/us/app/time-tracking-pro/id1461715351?mt=12)
+- [Timkee](https://timkee.io)
 - [Tiny Time Tracker](https://github.com/nyok/TinyTimeTracker)
 - [Toggl Track](https://apps.apple.com/us/app/toggl-track-hours-time-log/id1291898086)
 - [Turtle](https://apps.apple.com/us/app/turtle-time-tracker-timer/id1522772370?mt=12)
@@ -788,6 +799,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [GPU Switch](https://apps.apple.com/us/app/gpu-switch/id1633973660?mt=12)
 - [GreenBattery](https://apps.apple.com/us/app/greenbattery/id1635085304?mt=12)
 - [Hot](https://xs-labs.com/en/apps/hot/overview/)
+- [Hotspot Meter](https://apps.apple.com/us/app/hotspot-meter/id6473291534?mt=12)
 - [iBatteryStats](https://github.com/saket13/iBatteryStats/)
 - [iCloudStatus](http://www.thealchemistguild.com/icloudstatus/)
 - [Idiot](https://github.com/snare/idiot/)
@@ -843,6 +855,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Silicon Info](https://github.com/billycastelli/Silicon-Info)
 - [Simple Battery Monitor](https://apps.apple.com/us/app/simple-battery-monitor/id1234579481?mt=12)
 - [Simple Memory Indicator](https://github.com/gs-asrivastav/simple-memory-indicator)
+- [SimpleStatSpeed](https://statspeed.davidkoenig.de)
 - [SlimBatteryMonitor](https://www.orange-carb.org/SBM/)
 - [Space Watcher](https://apps.apple.com/us/app/space-watcher/id1667832220?mt=12)
 - [Speedtest](https://www.speedtest.net/apps/mac)
@@ -897,6 +910,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [PingBar](https://apps.apple.com/us/app/pingbar/id432088983?mt=12)
 - [PingChecker](https://github.com/ayush-lal/python-ping-checker)
 - [Pingey](https://www.getniceapps.com/pingey)
+- [Pingu](https://github.com/attheodo/Pingu)
 - [Uptime](https://apps.apple.com/us/app/uptime-webs-health-check/id1602506545?mt=12)
 
 ## Utilities
@@ -920,10 +934,20 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)
 - [ChatGPT for macOS](https://github.com/sourcelocation/ChatGPT-macOS)
 - [ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar)
+- [GPT-Tab](https://gpt-tab.com)
+- [MacBard](https://themacbrogroup.gumroad.com/l/macbard)
+- [MacBing](https://goodsnooze.gumroad.com/l/macbing?a=878996947)
 - [MacChatGPT](https://github.com/LeaderBoy/Chat)
 - [MacGPT](https://goodsnooze.gumroad.com/l/menugpt)
+- [MacPoe](https://goodsnooze.gumroad.com/l/macpoe)
 - [Nova: AI Assistant](https://apps.apple.com/us/app/nova-ai-assistant/id6447199502?mt=12)
+- [Peek](https://prateekkeshari.gumroad.com/l/peek)
 - [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt)
+- [Shello.ai](https://apps.apple.com/us/app/shello-ai-desktop/id1666622039?mt=12)
+
+### AI API Usage
+
+- [Peek](https://mattspear.gumroad.com/l/peekapp)
 
 ### Art
 
@@ -1088,6 +1112,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Coin Stats](https://apps.apple.com/us/app/coin-stats-widget/id1387758574?mt=12)
 - [Coin Tick](https://apps.apple.com/us/app/coin-tick-menu-bar-crypto/id1141688067?mt=12)
 - [Coin Ticker](https://github.com/alecananian/osx-coin-ticker)
+- [Coin Ticker](https://github.com/2nthony/coin-ticker)
 - [CoinView](https://apps.apple.com/us/app/coinview-bitcoin-altcoin-app/id1293681262)
 - [CryptoBar](https://apps.apple.com/us/app/cryptobar-bitcoin-and-altcoin/id1155656811?mt=12)
 - [CryptoBar](https://github.com/ColdBio/CryptoBar)
@@ -1170,6 +1195,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [QTextify](https://apps.apple.com/us/app/qtextify-image-to-text-pro/id1605967245?mt=12)
 - [QTextify Mini](https://apps.apple.com/us/app/qtextify-mini-ocr-like-magic/id1636034079?mt=12)
 - [Snappo](https://github.com/luca-viola/snappo)
+- [TextGrabber](https://apps.apple.com/us/app/textgrabber/id6451423640?mt=12)
 - [Textinator](https://github.com/RhetTbull/textinator)
 - [TRex](https://github.com/amebalabs/TRex)
 
@@ -1392,6 +1418,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Enpass](https://www.enpass.io)
 - [OneTimeCopy](https://github.com/adama11/OneTimeCopy)
 - [Security Growler](https://github.com/pirate/security-growler)
+- [swiftGuard](https://github.com/Lennolium/swiftGuard)
 
 #### Passwords
 
@@ -1452,6 +1479,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [LinkLiar](https://github.com/halo/LinkLiar)
 - [Localghost](https://scotchi.net/localghost/)
 - [LockMeNow](https://github.com/IGRSoft/LockMeNow)
+- [LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher)
 - [Macos-Spaces](https://github.com/collinmurch/macos-spaces)
 - [Mauno](https://mahdi.jp/apps/mauno)
 - [Menubar Auto Brightness](https://github.com/MrRobz/menubar-auto-brightness)
@@ -1534,6 +1562,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Sleep Control Centre](https://apps.apple.com/us/app/sleep-control-centre/id946798523?mt=12)
 - [Sleep Expert](https://apps.apple.com/us/app/sleep-expert/id1173339541?mt=12)
 - [Sleepless Mac](https://github.com/gsurma/sleepless_mac)
+- [Stim](https://www.widgetworx.com/resources/Stim_Universal.zip)
 - [Taurine](https://apps.apple.com/us/app/taurine/id960276676?mt=12)
 - [yaca](https://github.com/drproteus/yaca/)
 
@@ -1591,6 +1620,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Filebar](https://apps.apple.com/us/app/filebar/id1630856656?mt=12)
 - [File Cabinet Lite](https://apps.apple.com/us/app/file-cabinet-lite/id1160292682?mt=12)
 - [FinderBar](https://apps.apple.com/us/app/finderbar-better-menubar-icon/id1637188819?mt=12)
+- [FinderX](https://apps.apple.com/us/app/finderx-menubar-file-browser/id6466177414?mt=12)
 - [Folder Peek](https://apps.apple.com/us/app/folder-peek/id1615988943?mt=12)
 - [Fresh](https://apps.apple.com/us/app/fresh-4/id1540622464?mt=12)
 - [HighTop Files](https://apps.apple.com/us/app/hightop-files/id1529666842?mt=12)
@@ -1636,6 +1666,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Tabz](https://apps.apple.com/us/app/tabz/id1449417295?mt=12)
 - [Thor](https://github.com/gbammc/Thor)
 - [Top-Drawer](https://github.com/SteveBarnegren/TopDrawer)
+- [Trash Buddy](https://www.widgetworx.com/v2/)
 - [uDock](https://apps.apple.com/us/app/udock/id1563545181?mt=12)
 - [Unite](https://www.bzgapps.com/unite)
 - [Verve](https://github.com/ParthJadhav/verve)
@@ -1767,6 +1798,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [FanlyMenu](https://apps.apple.com/us/app/fanlymenu%E5%8F%8C%E6%A0%8F%E8%8F%9C%E5%8D%95%E6%A0%8F/id1594175400?mt=12)
 - [FocusWeather](https://apps.apple.com/us/app/focusweather/id1556178042?mt=12)
 - [Forecast Bar](https://apps.apple.com/us/app/forecast-bar-weather-radar/id982710545?mt=12)
+- [Jimo Weather](https://apps.apple.com/us/app/jimo-weather/id6474414620?mt=12)
 - [MenuBar Weather](https://apps.apple.com/us/app/menubar-weather/id1662381447?mt=12)
 - [MenuWeather+](https://apps.apple.com/us/app/menuweather/id1518142110?mt=12)
 - [Meteorologist](https://heat-meteo.sourceforge.io)
@@ -1794,6 +1826,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [WeatherMenu](https://github.com/kshired/WeatherMenu)
 - [WeatherX](https://apps.apple.com/us/app/weatherx-visual-forecast/id1662213547?mt=12)
 - [Weather Widget](https://apps.apple.com/us/app/weather-widget-live/id1235020875?mt=12)
+- [ZtWeather](https://apps.apple.com/us/app/ztweather/id6468925826?mt=12)
 
 ### Window Management
 
@@ -1813,8 +1846,13 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Window Collage](https://www.minicreo.com/window-collage/)
 - [Window Manager](https://fiplab.com/apps/window-manager-for-mac)
 
+### PiP
+
+- [PiPHero](https://piphero.app)
+
 ## Web Search
 
+- [Cuber](https://svenko.me/pages/cuber)
 - [GTab](https://apps.apple.com/us/app/gtab/id513330020?mt=12)
 - [Guso](https://apps.apple.com/us/app/guso-web-search-effortlessly/id1434234265?mt=12)
 - [iSearchBar](https://apps.apple.com/us/app/isearchbar/id1668321461?mt=12)
