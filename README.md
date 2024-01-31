@@ -273,6 +273,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 
 ### Sports
 
+- [AlleyOop](https://apps.apple.com/us/app/alleyoop-basketball-scores/id6475635546?mt=12)
 - [CricLive](https://apps.apple.com/us/app/criclive-live-cricket-scores/id1571050470?mt=12)
 - [CricMenu](https://github.com/ayushpoddar/cricmenu)
 - [GP Calendar](https://cyrilniobe.gumroad.com/l/gp-calendar)
@@ -722,6 +723,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Timemator Basic](https://apps.apple.com/us/app/timemator-basic/id1458451198?mt=12)
 - [TimeMatters](https://apps.apple.com/us/app/timematters-time-tracker/id1463875140?mt=12)
 - [Time Tracking Pro](https://apps.apple.com/us/app/time-tracking-pro/id1461715351?mt=12)
+- [TimeVault](https://apps.apple.com/us/app/timevault-easy-timesheets/id6475115042?mt=12)
 - [Timkee](https://timkee.io)
 - [Tiny Time Tracker](https://github.com/nyok/TinyTimeTracker)
 - [Toggl Track](https://apps.apple.com/us/app/toggl-track-hours-time-log/id1291898086)
@@ -822,6 +824,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Lil IP Toolbar](https://github.com/mchlrtkwski/lil_ip_toolbar/)
 - [Loading](https://bonzaiapps.com/loading/)
 - [Mac Activity Indicator](https://github.com/tarrcurtis/mai)
+- [Mac Circle](https://github.com/brk-ozs11/Mac-Circle)
 - [MacMenuStatus](https://github.com/batuhan0sanli/MacMenuStatus)
 - [MacOS Activity Monitor](https://github.com/joelmora/macos-activity-monitor)
 - [MacOS Battery Remaining Menubar](https://github.com/funkyremi/macos-battery-remaining-menubar)
@@ -845,6 +848,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [NixieStats](https://apps.apple.com/us/app/nixiestats/id1486093880?mt=12)
 - [OneMenu](https://www.withmarko.com/one-menu)
 - [Outlet](https://outlet.moapp.software)
+- [Particulars](https://particulars.app)
 - [Phantasmic](https://www.whatroute.net/phantasmic.html)
 - [Pinger](https://github.com/aseba/Pinger)
 - [Pingr](https://getpingr.app)
@@ -939,6 +943,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [GPT-Tab](https://gpt-tab.com)
 - [MacBard](https://themacbrogroup.gumroad.com/l/macbard)
 - [MacBing](https://goodsnooze.gumroad.com/l/macbing?a=878996947)
+- [MacBot](https://themacbrogroup.gumroad.com/l/macbot)
 - [MacChatGPT](https://github.com/LeaderBoy/Chat)
 - [MacGPT](https://goodsnooze.gumroad.com/l/menugpt)
 - [MacPoe](https://goodsnooze.gumroad.com/l/macpoe)
@@ -946,6 +951,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Peek](https://prateekkeshari.gumroad.com/l/peek)
 - [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt)
 - [Shello.ai](https://apps.apple.com/us/app/shello-ai-desktop/id1666622039?mt=12)
+- [ShotSolve](https://shotsolve.com)
 
 ### AI API Usage
 
@@ -1025,6 +1031,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [PasteNow](https://apps.apple.com/us/app/pastenow-instant-clipboard/id1552536109)
 - [PastePal](https://apps.apple.com/us/app/pastepal-clipboard-manager/id1503446680)
 - [Paste Plain Text](https://apps.apple.com/us/app/paste-plain-text/id1407015686?mt=12)
+- [Pasteratops](https://pasteratops.com)
 - [Pastery](https://apps.apple.com/us/app/pastery-copy-paste-history/id1620045664?mt=12)
 - [PasteTXT](https://apps.apple.com/us/app/pastetxt/id1505201563?mt=12)
 - [Pasty](https://apps.apple.com/us/app/clipboard-manager-pasty/id1544620654?mt=12)
@@ -1188,6 +1195,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Aristocrat](https://apps.apple.com/us/app/aristocrat/id886910172?mt=12)
 - [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id1543833156?mt=12)
 - [Easy Screen OCR](https://apps.apple.com/us/app/easy-screen-ocr/id1359663922?mt=12)
+- [Grab2Text](https://apps.apple.com/us/app/grab2text/id6475956137?mt=12)
 - [Image Text OCR](https://apps.apple.com/us/app/image-text-ocr-photo-pdf-scan/id1495787023?mt=12)
 - [Initiater](https://apps.apple.com/us/app/initiater/id1578490291?mt=12)
 - [LensOCR](https://apps.apple.com/us/app/lensocr-extract-text-image/id1549961729?mt=12)
@@ -1333,6 +1341,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [UnlockerX](https://github.com/HsOjo/UnlockerX)
 - [Valet for Tesla](https://teslamacapp.com)
 - [Volumio_bar](https://github.com/volderette/Volumio_bar/)
+- [Wiz Light Control](https://github.com/rryuliu/WizLightControl)
 - [3LED: Menu bar client for LIFX](https://apps.apple.com/us/app/3led-menu-bar-client-for-lifx/id1460522983?mt=12)
 
 ### Lists/Collections
@@ -1487,6 +1496,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Menubar Auto Brightness](https://github.com/MrRobz/menubar-auto-brightness)
 - [MenuBarVolume](https://github.com/bakkot/MenuBarVolume)
 - [Menu Playthrough](https://github.com/melvyn2/MenuPlaythrough)
+- [Micmute](https://github.com/rokartur/Micmute)
 - [MicMüter](https://widgetworx.com/projects/micmuter.html)
 - [micSwitch](https://github.com/dstd/micSwitch)
 - [MonitorControl Lite](https://apps.apple.com/us/app/monitorcontrol-lite/id1595464182?mt=12)
@@ -1532,6 +1542,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Volume Reset](https://apps.apple.com/us/app/volume-reset/id495705418?mt=12)
 - [Volume Scroll](http://www.volumescroll.com)
 - [whilom](https://insanj.github.io/whilom/)
+- [WidgetToggler](https://github.com/sieren/WidgetToggler)
 - [@home](https://beatrupp.github.io/athome/)
 
 #### Browser Switching
@@ -1690,6 +1701,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [OkTalk](https://apps.apple.com/us/app/oktalk-keyboard-translator/id1452146565)
 - [OneHighlighter](https://apps.apple.com/us/app/onehighlighter/id1131580917?mt=12)
 - [Oversetter](https://4gray.github.io/oversetter/)
+- [Quote of the Hour](https://apps.apple.com/us/app/quote-of-the-hour/id6476126609?mt=12)
 - [Quotes](https://github.com/joaofcosta/Quotes)
 - [RandomTextGenerator](https://apps.apple.com/us/app/randomtextgenerator/id6469051836?mt=12)
 - [Rocket](https://matthewpalmer.net/rocket/)
@@ -1886,5 +1898,6 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Pretzel](https://github.com/amiechen/pretzel)
 - [PSPEWC](https://github.com/jacquesCedric/PSPEWC-mac/)
 - [Shortcut](https://github.com/egoist/Shortcut)
+- [Switcher](https://github.com/tkgka/Switcher)
 - [Tap: Auto Click & Refresh](https://apps.apple.com/us/app/tap-auto-click-refresh/id6444782835?mt=12)
 - [Tikey](https://apps.apple.com/us/app/tikey-typing-is-more-rhythmic/id1615879359?mt=12)
