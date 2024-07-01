@@ -44,6 +44,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Gitmoji for macOS](https://github.com/tim-richter/gitmoji_for_mac)
 - [GitStatus](https://github.com/0x2E/GitStatus)
 - [Google Icons Picker](https://github.com/jack-carling/google-icons-picker)
+- [Graphite System Tray App](https://graphite.dev/docs/menu-bar-app)
 - [Icon Finder](https://apps.apple.com/us/app/icon-finder-png-ai-svg/id1504869357?mt=12)
 - [Icon Preview](https://sindresorhus.com/icon-preview)
 - [iHosts](https://apps.apple.com/us/app/ihosts-etc-hosts-editor/id1102004240?mt=12)
@@ -297,6 +298,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [DrinkMore](https://github.com/FergusYip/DrinkMoreApp)
 - [Eye Exercise Reminder](https://apps.apple.com/us/app/eye-exercise-reminder/id1475399661?mt=12)
 - [Eye Monitor](https://apps.apple.com/us/app/eye-monitor/id1527031341?mt=12)
+- [fatGPT Menu Bar Helper](https://apps.apple.com/us/app/fatgpt-menu-bar-helper/id6475016148?mt=12)
 - [HALO](https://github.com/gauravchl/halo)
 - [Hint](https://github.com/crsmithdev/hint)
 - [HLTH Posture & Break Reminders](https://apps.apple.com/us/app/hlth-posture-break-reminders/id1503879351?mt=12)
@@ -374,6 +376,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Qi FM](https://apps.apple.com/us/app/qi-fm-focus-relax-sounds/id1479696191?mt=12)
 - [RainingPlayer](https://apps.apple.com/us/app/rainingplayer/id1619940076)
 - [RainThunder Tiny Player](https://github.com/yann5280/RainThunder-Tiny-Player)
+- [Rocola](https://wilterrero.gumroad.com/l/rocola)
 - [Soundtrack Player](https://apps.apple.com/us/app/soundtrack-player/id1114799709)
 
 ### Calendar
@@ -782,6 +785,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Battery Monitor](https://apps.apple.com/us/app/battery-monitor-health-info/id836505650?mt=12)
 - [battery_remain](https://github.com/Sammers21/battery_remain)
 - [Battery Sable](https://apps.apple.com/us/app/batterysable/id1037602620?mt=12)
+- [BatteryScout](https://apps.apple.com/us/app/batteryscout/id6504814358?mt=12)
 - [Battery Thing](https://getbatterything.com/)
 - [Better Battery Status](https://apps.apple.com/us/app/better-battery-status/id1595133399?mt=12)
 - [Better Battery 2](https://apps.apple.com/us/app/better-battery-2-stats-info/id1455789676?mt=12)
@@ -860,6 +864,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Network Status Bar](https://github.com/cnfatal/NetworkStatusBar)
 - [NixieStats](https://apps.apple.com/us/app/nixiestats/id1486093880?mt=12)
 - [OneMenu](https://www.withmarko.com/one-menu)
+- [Onlike Check](https://sindresorhus.com/online-check)
 - [Outlet](https://outlet.moapp.software)
 - [Parallels System Monitor](https://apps.apple.com/us/app/parallels-system-monitor/id6475592380?mt=12)
 - [Particulars](https://particulars.app)
@@ -960,6 +965,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar)
 - [GPT-Tab](https://gpt-tab.com)
 - [Heydi](https://apps.apple.com/us/app/heydi/id6477883229?mt=12)
+- [Keep it shot](https://keepitshot.com)
 - [MacBard](https://themacbrogroup.gumroad.com/l/macbard)
 - [MacBing](https://goodsnooze.gumroad.com/l/macbing?a=878996947)
 - [MacBot](https://themacbrogroup.gumroad.com/l/macbot)
@@ -998,6 +1004,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Pearl](https://apps.apple.com/us/app/pearl-mirror-in-your-menubar/id1152715357?mt=12)
 - [Scopie](https://apps.apple.com/us/app/scopie/id1027457763?mt=12)
 - [Smart Webcam](https://github.com/adheeshenoy/Smart_webcam)
+- [Telestream](https://apps.apple.com/us/app/telestream/id6450406513?mt=12)
 - [Viewfinder](https://github.com/lfroms/viewfinder)
 
 ### Clipboard
@@ -1121,6 +1128,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Minitor](https://github.com/birarda/minitor)
 - [Realtime Coinbase Wallet](https://github.com/akump/realtime-coinbase-wallet)
 - [The Watcher Web3 Console](https://apps.apple.com/us/app/the-watcher-web3-console/id1599608893?mt=12)
+- [Widgets for Binance](https://apps.apple.com/us/app/widgets-for-binance/id6503639884?mt=12)
 
 ##### Crypto Tickers
 
@@ -1170,6 +1178,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 ### File Transfer
 
 - [Air Transfer](https://apps.apple.com/us/app/air-transfer-ever-file-share/id1573104116?mt=12)
+- [Blip](https://blip.net)
 - [cClip](https://apps.apple.com/us/app/cclip/id1582488315)
 - [Clipitto](https://apps.apple.com/us/app/clipitto-fast-files-sharing/id681654619?mt=12)
 - [Droplet](https://github.com/joshmcarthur/droplet)
@@ -1726,6 +1735,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 
 - [AnyIpsum](https://github.com/jlowgren/AnyIpsum)
 - [BarCounter](https://apps.apple.com/us/app/barcounter-just-copy-to-count/id1464372559?mt=12)
+- [Cat Fact](https://arthursmithdev.gumroad.com/l/CatFact)
 - [Clear Clipboard Text Format](https://apps.apple.com/us/app/clear-clipboard-text-format/id1322855232?mt=12)
 - [Esse](https://apps.apple.com/us/app/esse/id1438921989)
 - [FlipTable](https://sites.google.com/view/saigonmd-flippy/home)
@@ -1886,6 +1896,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 
 ### Window Management
 
+- [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize)
 - [Later](https://getlater.app)
 - [Layouts](https://www.maclayouts.com/)
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
