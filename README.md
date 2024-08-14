@@ -15,17 +15,18 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Last thing](https://github.com/davideagostini/last_thing)
 - [Lickable Menu Bar](https://apps.apple.com/us/app/lickable-menu-bar/id6444217677?mt=12)
 - [One Thing](https://sindresorhus.com/one-thing)
+- [ParrotBar](https://apps.apple.com/us/app/parrotbar/id6618137282?mt=12)
 - [Say No to Notch](https://apps.apple.com/us/app/say-no-to-notch/id1639306886?mt=12)
 - [Screen Bandit](https://apps.apple.com/us/app/screen-bandit/id1043565969?mt=12)
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)
 
 ## Developer Utilities
 
-- [Airtool](https://www.intuitibits.com/products/airtool2/) - 3-day free trial
+- [Airtool](https://www.intuitibits.com/products/airtool2/) - 3-day free trial, then $29.99
 - [Anvil](https://anvilformac.com)
 - [AnyBar](https://github.com/tonsky/AnyBar)
 - [BashBar](https://github.com/tbrek/BashBar)
-- [Bidbar](https://www.getbidbar.com/) - 7-day free trial
+- [Bidbar](https://www.getbidbar.com/) - 7-day free trial, then $10
 - [brew MAMP Panel](https://github.com/jiayouzl/brew-MAMP-Panel)
 - [BrewServicesMenubar](https://github.com/andrewn/brew-services-menubar)
 - [catlight](https://catlight.io)
@@ -1226,6 +1227,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [InstaShare](http://instashareapp.com/mac.html)
 - [iPic](https://apps.apple.com/us/app/ipic-image-file-upload-tool/id1101244278?mt=12)
 - [Jumpshare](https://jumpshare.com)
+- [Mounty](https://mounty.app)
 - [Octofile](https://apps.apple.com/us/app/octofile-2/id1463726615?mt=12)
 - [PicGo](https://molunerfinn.com/PicGo/)
 - [PicUp](https://github.com/JoyZeng/PicUp)
@@ -1251,6 +1253,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Alchemy](https://dawnlabs.github.io/alchemy/)
 - [App for Pixabay](https://basilsalad.com/os-x/app-pixabay/?utm_campaign=MacUpdate_Pixabay&utm_source=MacUpdate&utm_medium=catalog&utm_content=StackMenu&utm_term=ProductURL)
 - [Clop](https://lowtechguys.com/clop/)
+- [Clotski](https://inchman.gumroad.com/l/Clotski)
 - [Dropbox Capture](https://www.dropbox.com/features/content-collaboration/screen-recorder)
 - [Fenetre](https://getfenet.re)
 - [PiP³](http://www.pleasantsoftware.com/pip3/)
@@ -1482,6 +1485,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Desktop Icon Hider](https://apps.apple.com/us/app/desktop-icon-hider/id1559439869?mt=12)
 - [Gapa](https://github.com/ozlerhakan/gapa/)
 - [Gemini 2](https://macpaw.com/gemini)
+- [Little Tagger](https://littletagger.com)
 - [Mr. Tidy](https://apps.apple.com/us/app/mr-tidy/id1063178800?mt=12)
 - [Shade](https://apps.apple.com/us/app/shade/id546881298?mt=12)
 - [Unhidy](https://github.com/danieldbird/unhidy)
@@ -1775,6 +1779,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Thor](https://github.com/gbammc/Thor)
 - [Top-Drawer](https://github.com/SteveBarnegren/TopDrawer)
 - [Trash Buddy](https://www.widgetworx.com/v2/)
+- [Trickster](https://www.apparentsoft.com/trickster) - 14-day free trial, then $29.99
 - [uDock](https://apps.apple.com/us/app/udock/id1563545181?mt=12)
 - [Unite](https://www.bzgapps.com/unite)
 - [Verve](https://github.com/ParthJadhav/verve)
