@@ -95,6 +95,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 ### Code/Text Snippets
 
 - [Cacher](https://www.cacher.io)
+- [Cloud Snippets](https://cloudsnippets.twoint.com)
 - [CodeGofer](https://apps.apple.com/us/app/codegofer/id730254832?mt=12)
 - [Codelime](https://apps.apple.com/us/app/codelime-snippet-dev-tools/id1622145140)
 - [Dropa](https://apps.apple.com/us/app/dropa/id1362416136?mt=12)
@@ -165,6 +166,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [GifBar](https://github.com/joshghent/gifbar)
 - [Gifox](https://gifox.app)
 - [Guifero](https://guifero.app)
+- [InaGif](https://github.com/thomasramon/InaGif/tree/inagif)
 - [insertGif](https://insertgif.com)
 - [Jiffy](https://apps.apple.com/us/app/jiffy/id1502527999?mt=12)
 - [LIHKG GIFs](https://github.com/icelam/lihkg-gifs?ref=iosexample.com)
@@ -230,6 +232,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/)
 - [SpotStatus](https://github.com/joshspicer/SpotStatus)
 - [Status Bar Music Player](https://www.mummymammoth.com/status-bar-music-player)
+- [Statusfy](https://github.com/paulyoung/Statusfy)
 - [Synergy](https://wincent.com/products/synergy)
 - [Track Name for iTunes](https://apps.apple.com/us/app/track-name-for-itunes/id622083837?mt=12)
 - [TrayPlay](https://mborgerson.com/trayplay/)
@@ -457,6 +460,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Strategr](https://khrykin.github.io/StrategrDesktop/)
 - [Superpowered](https://superpowered.me/?ref=producthunt)
 - [Task Calendar](https://apps.apple.com/us/app/task-calendar-time-planner/id1506466265?mt=12)
+- [TeenyCal](https://widgetworx.com/apps/teeny.html)
 - [Timestamp](https://github.com/mzdr/timestamp)
 - [TinyCal](https://plumamazing.com/product/tinycal/)
 - [TinyDateTime](https://andreasfertig.com/apps/tinydatetime/)
@@ -804,7 +808,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
 - [Apps Update Reminder](https://github.com/hallelujahs/apps-update-reminder)
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369?mt=12)
-- [BatFi](https://www.micropixels.software/batfi)
+- [BatFi](https://www.micropixels.software/batfi) - Open source but $10 to download pre-packaged app
 - [Battery Amperage](https://apps.apple.com/us/app/battery-amperage/id977549064?mt=12)
 - [Battery Bar](https://github.com/HenryQuan/BatteryBar)
 - [BatteryBoi](https://github.com/thebarbican19/BatteryBoi)
@@ -1730,6 +1734,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [StocksBar](https://github.com/alexiscn/StocksBar)
 - [Stock Ticker](https://apps.apple.com/us/app/stock-ticker/id1502923895?mt=12)
 - [StockTrackr](https://apps.apple.com/us/app/stocktrackr/id1457916567?mt=12)
+- [StonksBar](https://apps.apple.com/us/app/stonksbar/id6670620027?mt=12)
 - [TickBar](https://apps.apple.com/us/app/tickbar/id1666870677?mt=12)
 - [Uptick](https://apps.apple.com/us/app/uptick-stock-ticker/id1513828695?mt=12)
 
@@ -1820,6 +1825,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [FlipTable](https://sites.google.com/view/saigonmd-flippy/home)
 - [LoremBuilder](https://apps.apple.com/us/app/lorembuilder/id683129651?mt=12)
 - [Kaomoji](https://apps.apple.com/us/app/kaomoji/id1025701729?mt=12)
+- [Kaomoji Drawer](https://www.dakotafelder.com/kaomoji-drawer/index.html)
 - [Keypaste](https://github.com/Secret-Squirrel-Club/keypastepy)
 - [Menu Bar Dictionary](https://apps.apple.com/us/app/menu-bar-dictionary/id1660806767?mt=12)
 - [Mojibar](https://github.com/muan/mojibar)
