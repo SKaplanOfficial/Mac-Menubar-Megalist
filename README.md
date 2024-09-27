@@ -11,6 +11,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 
 - [BananaBin](https://bananabin.app)
 - [Billboard](https://github.com/daschaa/billboard)
+- [Confetti Magic](https://apps.apple.com/us/app/confetti-magic/id6473710053?mt=12)
 - [EyeSpy Mouse Eyes](https://apps.apple.com/us/app/eyespy-mouse-eyes/id6504020324?mt=12)
 - [Last thing](https://github.com/davideagostini/last_thing)
 - [Lickable Menu Bar](https://apps.apple.com/us/app/lickable-menu-bar/id6444217677?mt=12)
@@ -297,6 +298,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Menubar Surf](https://surf-forecast-landing.pages.dev)
 - [MLS Bar](https://github.com/akeaswaran/mls-bar)
 - [NBA Bar](https://github.com/homerchen19/nba-bar)
+- [Scorebar](https://apps.apple.com/us/app/scorebar/id1552514399)
 - [SwellBar](https://apps.apple.com/us/app/swellbar/id6499383000?mt=12)
 - [World Cup Bar](https://cyrilniobe.gumroad.com/l/world-cup-mac-bar)
 
@@ -515,11 +517,13 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys)
 - [Quick Notes](https://apps.apple.com/us/app/quick-notes-email-me/id1090744587)
 - [Quicky Note](https://apps.apple.com/us/app/quicky-note/id6463947773?mt=12)
+- [Quill](https://widgetworx.com/apps/quill.html)
 - [Scratchpad](https://sindresorhus.com/scratchpad)
 - [Scrawl](https://apps.apple.com/us/app/scrawl/id1249895598?mt=12)
 - [Skitch](https://evernote.com/products/skitch)
 - [SnipNotes](https://www.snipnotes.de/en/)
 - [Steecky](https://steecky.app)
+- [Strikethrough](https://apps.apple.com/us/app/strikethrough/id6711361182?mt=12);
 - [TabbyNote](https://apps.apple.com/us/app/tabbynote-menubar-notepad/id1555858947?mt=12)
 - [Tab Notes Lite](https://apps.apple.com/us/app/tab-notes-lite/id410479438?mt=12)
 - [tinyScratchpad](https://tinyscratchpad.netlify.app)
@@ -585,6 +589,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [PopDo](https://ds9soft.com/popdo/)
 - [PreForget](https://preforget.vercel.app)
 - [QDo](https://apps.apple.com/us/app/qdo/id447968349?mt=12)
+- [Redline](https://apps.apple.com/us/app/redline-minimal-menubar-todo/id1632723247?mt=12)
 - [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar)
 - [Remy](https://apps.apple.com/us/app/remy/id1406683268?mt=12)
 - [Shortminder](https://apps.apple.com/us/app/shortminder/id1619133229?mt=12)
@@ -599,6 +604,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Todoey](https://www.getniceapps.com/todoey-2)
 - [Todollo](https://apps.apple.com/us/app/todollo/id1631501134?mt=12)
 - [WIP Menubar](https://apps.apple.com/us/app/wip-menubar/id1456413506?mt=12)
+- [99 Things](https://widgetworx.com/apps/99things.html)
 
 ### Timers & Stopwatches
 
@@ -668,6 +674,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Quickly](https://apps.apple.com/us/app/quickly/id964195558?mt=12)
 - [QuickTimer](https://github.com/inderdhir/QuickTimer)
 - [Rehat](https://apps.apple.com/us/app/rehat-break-time-reminder/id1509388281?mt=12)
+- [RoundPie Tray Timer](https://apps.apple.com/us/app/roundpie-tray-timer/id1567522110?mt=12)
 - [Session](https://apps.apple.com/us/app/session-pomodoro-focus-timer/id1521432881)
 - [SimpleTimer](https://github.com/appletomato/simpletimer)
 - [SleepSoon](https://apps.apple.com/us/app/sleepsoon/id1399901452?mt=12)
@@ -869,6 +876,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [IP Connect](https://github.com/pawong/IPConnect)
 - [IP in menubar](https://www.monkeybreadsoftware.de/Software/IPinmenubar.shtml)
 - [IPMenulet](https://github.com/mcandre/IPMenulet)
+- [IPTray](https://apps.apple.com/us/app/iptray/id6469059881?mt=12)
 - [istat](https://github.com/Lingdu0/istat/)
 - [iStats](https://github.com/ningt/iStats)
 - [Istatistica Pro](https://www.imagetasks.com/istatistica/pro/)
@@ -1334,6 +1342,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [ScreenHint](https://apps.apple.com/us/app/screenhint/id1566621533?mt=12)
 - [Screenie](https://apps.apple.com/us/app/screenie-screenshot-manager/id965442961?mt=12)
 - [ScreenLapsr](https://apps.apple.com/us/app/screenlapsr-screen-timelapse/id1547174710?mt=12)
+- [screenML](https://www.screenml.com)
 - [Screen Recorder](https://apps.apple.com/us/app/screen-recorder-by-omi/id1592987853?mt=12)
 - [Screen Recorder](https://apps.apple.com/us/app/screen-recorder-a-screen-record-and-capture-tool/id1089858887?mt=12)
 - [Screen Recorder - EaseUS](https://apps.apple.com/us/app/screen-recorder-easeus/id1581903884?mt=12)
@@ -1511,6 +1520,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Desktop Icon Hider](https://apps.apple.com/us/app/desktop-icon-hider/id1559439869?mt=12)
 - [Gapa](https://github.com/ozlerhakan/gapa/)
 - [Gemini 2](https://macpaw.com/gemini)
+- [Fover](https://apps.apple.com/us/app/fover/id6478125504?mt=12)
 - [Little Tagger](https://littletagger.com)
 - [Mr. Tidy](https://apps.apple.com/us/app/mr-tidy/id1063178800?mt=12)
 - [Shade](https://apps.apple.com/us/app/shade/id546881298?mt=12)
@@ -1723,6 +1733,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 
 ### Stocks
 
+- [iMarkets](https://apps.apple.com/us/app/imarkets/id1666870677?mt=12)
 - [Market Countdown](https://apps.apple.com/us/app/market-countdown/id1668967522?mt=12)
 - [Quick Commodities](https://apps.apple.com/us/app/quick-commodities/id1074532887)
 - [Pricebar](https://apps.apple.com/us/app/pricebar-track-market-prices/id6464116298?mt=12)
@@ -1754,6 +1765,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Controlax](https://apps.apple.com/us/app/controlax-computer-control/id1483428953)
 - [Coolbar](https://indiegoodies.com/coolbar)
 - [Drill Down](https://apps.apple.com/us/app/drill-down/id1498783167?mt=12)
+- [Duck Float](https://apps.apple.com/us/app/duck-float/id6560107272?mt=12)
 - [EasyFinder](https://apps.apple.com/us/app/easyfinder-2/id1531238115?mt=12)
 - [Easy Shortcuts](https://apps.apple.com/us/app/easy-shortcuts/id1616518164?mt=12)
 - [Fastscripts](https://redsweater.com/fastscripts/)
@@ -1891,6 +1903,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [EpochBar](https://apps.apple.com/us/app/epochbar/id6503478833?mt=12)
 - [epochBar](https://github.com/ethanndickson/epochBar)
 - [EpochClock](https://apps.apple.com/us/app/epochclock/id471739929?mt=12)
+- [Epocher](https://apps.apple.com/us/app/epocher/id6477356412?mt=12)
 - [EpochHelper](https://apps.apple.com/us/app/epochhelper/id6477368604?mt=12)
 - [Epochulator unix time calculator](https://apps.apple.com/us/app/epochulator-unix-time-calculator/id531022911?mt=12)
 - [FuzzyTime](https://apps.apple.com/us/app/fuzzytime/id950297057?mt=12)
@@ -1997,6 +2010,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Swish](https://highlyopinionated.co/swish/)
 - [Warp](https://mkchoi212.gumroad.com/l/qjkjf)
 - [Window Collage](https://www.minicreo.com/window-collage/)
+- [Window Keys](https://www.apptorium.com/windowkeys)
 - [Window Manager](https://fiplab.com/apps/window-manager-for-mac)
 
 #### PiP
@@ -2013,6 +2027,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Menupedia](https://widgetworx.com/projects/menupedia.html)
 - [Nimble](https://github.com/Maybulb/Nimble)
 - [Phlo](https://apps.apple.com/us/app/phlo-quick-search-box/id547094813?mt=12)
+- [Snapsrch](https://apps.apple.com/us/app/snapsrch/id6449177370?mt=12)
 - [Wiki Tab](https://apps.apple.com/us/app/wiki-tab/id507855722?mt=12)
 
 ## Other
