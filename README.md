@@ -368,6 +368,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 - [Funter](https://nektony.com/funter)
 - [Monitro](https://apps.apple.com/us/app/monitro/id1438864470?mt=12)
 - [Pliim](https://pliim.app)
+- [Presentify](https://presentifyapp.com)
 - [Slack DND](https://github.com/furkanpehli1/Slack-DND)
 - [Slack Status Bar](https://github.com/ericwb/slack-status-bar/)
 - [Slack Status Icon](https://github.com/strayge/slack_status_icon)
@@ -1064,6 +1065,7 @@ This is a regularly updated list of macOS menu bar apps organized by area of foc
 
 - [Camera Bop](https://github.com/LASER-Yi/Camera-Bop)
 - [Camera Preview](https://sindresorhus.com/camera-preview)
+- [FaceScreen](https://facescreenapp.com)
 - [Hand Mirror](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)
 - [Menu Mirror](https://apps.apple.com/us/app/menu-mirror/id6449142602?mt=12)
 - [Pearl](https://apps.apple.com/us/app/pearl-mirror-in-your-menubar/id1152715357?mt=12)
