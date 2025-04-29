@@ -1,0 +1,28 @@
+{
+  "MD013": false,
+  "MD033": {
+    "allowed_elements": [
+      "a",
+      "b",
+      "blockquote",
+      "code",
+      "del",
+      "em",
+      "i",
+      "kbd",
+      "mark",
+      "pre",
+      "s",
+      "strong",
+      "sub",
+      "sup",
+      "u",
+      "br",
+      "details",
+      "summary",
+      "ol",
+      "ul",
+      "li"
+    ]
+  }
+}

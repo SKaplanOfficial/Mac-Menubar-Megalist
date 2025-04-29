@@ -1,6 +1,151 @@
 # Mac Menubar Megalist
 
-This is a regularly updated list of macOS menu bar apps organized by area of focus. All apps are free (or have a free tier) unless otherwise noted.
+This is a regularly updated list of macOS menu bar apps organized by area of focus. All apps listed are free unless otherwise noted, though some may have changed to a paid model since they were last checked.
+
+This repository aims to record *all* menu bar apps available for macOS, regardless of their quality, functionality, or security. The inclusion of an app does not imply endorsement or recommendation; only that it is a menu bar app that exists. Always exercise caution when downloading and using software from the internet.
+
+For other places to look for menubar apps, see [resources.md](./resources.md) For information and archives of apps that are no longer available, see [archive.md](archive.md).
+
+If you find that an app is missing, that any of the links are broken, or that they have moved to a paid model, please let me know by [opening an issue](https://github.com/SKaplanOfficial/Mac-Menubar-Megalist/issues/new).
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+      <li><a href="#contacts">Contacts</a></li>
+      <li><a href="#decoration">Decoration</a></li>
+      <li><a href="#developer-utilities">Developer Utilities</a></li>
+      <li><a href="#entertainment">Entertainment</a>
+          <ol>
+              <li><a href="#games">Games</a></li>
+              <li><a href="#game-utilities">Game Utilities</a></li>
+              <li><a href="#imagesgifs">Images/GIFs</a></li>
+              <li><a href="#music">Music</a></li>
+              <li><a href="#moviesvideos">Movies/Videos</a></li>
+              <li><a href="#podcasts">Podcasts</a></li>
+              <li><a href="#radioradio-esque">Radio/Radio-esque</a></li>
+              <li><a href="#sports">Sports</a></li>
+          </ol>
+      </li>
+      <li><a href="#faith-religion-and-spirituality">Faith, Religion, and Spirituality</a></li>
+      <li><a href="#health">Health</a>
+          <ol>
+              <li><a href="#health-data">Health Data</a></li>
+          </ol>
+      </li>
+      <li><a href="#news">News</a>
+          <ol>
+              <li><a href="#rss">RSS</a></li>
+          </ol>
+      </li>
+      <li><a href="#productivity">Productivity</a>
+          <ol>
+              <li><a href="#activity-tracking">Activity Tracking</a></li>
+              <li><a href="#background-sounds">Background Sounds</a></li>
+              <li><a href="#calendar">Calendar</a></li>
+              <li><a href="#meetings">Meetings</a></li>
+              <li><a href="#email">Email</a></li>
+              <li><a href="#notes">Notes</a></li>
+              <li><a href="#notifications">Notifications</a></li>
+              <li><a href="#audio-notes">Audio Notes</a></li>
+              <li><a href="#sticky-notes">Sticky Notes</a></li>
+              <li><a href="#productivity-aides">Productivity Aides</a></li>
+              <li><a href="#task-management">Task Management</a></li>
+              <li><a href="#timers--stopwatches">Timers & Stopwatches</a></li>
+              <li><a href="#alarms">Alarms</a></li>
+              <li><a href="#awareness-timers">Awareness Timers</a></li>
+              <li><a href="#timehabit-tracking">Time/Habit Tracking</a></li>
+          </ol>
+      </li>
+      <li><a href="#social-media">Social Media</a></li>
+      <li><a href="#reference">Reference</a></li>
+      <li><a href="#system-status">System Status</a>
+          <ol>
+              <li><a href="#local-system-status">Local System Status</a></li>
+              <li><a href="#external-system-status">External System Status</a></li>
+          </ol>
+      </li>
+      <li><a href="#travel--transit">Travel & Transit</a></li>
+      <li><a href="#utilities">Utilities</a>
+          <ol>
+              <li><a href="#ai">AI</a></li>
+              <li><a href="#art">Art</a></li>
+              <li><a href="#audio">Audio</a></li>
+              <li><a href="#backups">Backups</a></li>
+              <li><a href="#business">Business</a></li>
+              <li><a href="#camera">Camera</a></li>
+              <li><a href="#clipboard">Clipboard</a></li>
+              <li><a href="#color-picker--palette">Color Picker / Palette</a></li>
+              <li><a href="#counting">Counting</a></li>
+              <li><a href="#currency">Currency</a>
+                  <ol>
+                      <li><a href="#crypto">Crypto</a></li>
+                  </ol>
+              </li>
+              <li><a href="#file-transfer">File Transfer</a>
+                  <ol>
+                      <li><a href="#video-download">Video Download</a></li>
+                  </ol>
+              </li>
+              <li><a href="#finance">Finance</a></li>
+              <li><a href="#image-and-video">Image and Video</a>
+                  <ol>
+                      <li><a href="#ocr">OCR</a></li>
+                      <li><a href="#screenshots--screen-recording">Screenshots / Screen Recording</a></li>
+                      <li><a href="#wallpapers">Wallpapers</a></li>
+                  </ol>
+              </li>
+              <li><a href="#iot">IoT</a></li>
+              <li><a href="#keyboard-shortcuts">Keyboard Shortcuts</a></li>
+              <li><a href="#listscollectionsread-it-later">Lists/Collections/Read-It-Later</a></li>
+              <li><a href="#math">Math</a>
+                  <ol>
+                      <li><a href="#calculators">Calculators</a></li>
+                  </ol>
+              </li>
+              <li><a href="#menubar-meta-apps">Menubar Meta-Apps</a></li>
+              <li><a href="#networking--it">Networking / IT</a></li>
+              <li><a href="#organization">Organization</a>
+                  <ol>
+                      <li><a href="#plugin-based-apps">Plugin-Based Apps</a></li>
+                  </ol>
+              </li>
+              <li><a href="#privacy">Privacy</a></li>
+              <li><a href="#qr">QR</a></li>
+              <li><a href="#security">Security</a></li>
+              <li><a href="#science">Science</a>
+                  <ol>
+                      <li><a href="#passwords">Passwords</a></li>
+                  </ol>
+              </li>
+              <li><a href="#settings">Settings</a></li>
+              <li><a href="#sound">Sound</a></li>
+              <li><a href="#stocks">Stocks</a></li>
+              <li><a href="#shortcuts--launchers">Shortcuts & Launchers</a></li>
+              <li><a href="#text">Text</a>
+                  <ol>
+                      <li><a href="#speech">Speech</a></li>
+                      <li><a href="#translation">Translation</a></li>
+                  </ol>
+              </li>
+              <li><a href="#time--date">Time & Date</a>
+                  <ol>
+                      <li><a href="#timezones--world-time">Timezones & World Time</a></li>
+                      <li><a href="#utc-time">UTC Time</a></li>
+                  </ol>
+              </li>
+              <li><a href="#vpn">VPN</a></li>
+              <li><a href="#weather">Weather</a></li>
+              <li><a href="#window-management">Window Management</a>
+                  <ol>
+                      <li><a href="#pip">PiP</a></li>
+                  </ol>
+              </li>
+          </ol>
+      </li>
+      <li><a href="#web-search">Web Search</a></li>
+      <li><a href="#other">Other</a></li>
+  </ol>
+</details>
 
 ## Contacts
 
