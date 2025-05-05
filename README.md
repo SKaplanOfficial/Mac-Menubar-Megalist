@@ -159,24 +159,20 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Dyet](https://inchman.gumroad.com/l/Dyet) by [INCHMAN](https://asiafu.com/)
 - [EyeSpy Mouse Eyes](https://apps.apple.com/us/app/eyespy-mouse-eyes/id6504020324?mt=12) by [Ori Roniger](https://roniger.co.il)
 - [Fairy Lights](https://github.com/chippokiddo/fairylights)
+- [Googly Eyes](https://sindresorhus.com/googly-eyes#non-app-store-version) by [Sindre Sorhus](https://sindresorhus.com)
 - [Last thing](https://github.com/davideagostini/last_thing) by [Davide Agostini](https://github.com/davideagostini)
 - [Lickable Menu Bar](https://apps.apple.com/us/app/lickable-menu-bar/id6444217677?mt=12) by [Honghao Zhang](https://github.com/honghaoz)
 - [Logoer](https://github.com/lihaoyun6/Logoer) by [Li Haoyun](https://github.com/lihaoyun6)
 - [Menu Bar Tint](https://manytricks.com/menubartint/) by [Many Tricks](https://manytricks.com)
 - [One Thing](https://sindresorhus.com/one-thing) by [Sindre Sorhus](https://sindresorhus.com)
 - [ParrotBar](https://apps.apple.com/us/app/parrotbar/id6618137282?mt=12) by [Michael Murdock](https://github.com/murdockma)
-- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) by [Sindre Sorhus](https://sindresorhus.com)
-
-### Hide/Decorate Notch
-
 - [Say No to Notch](https://apps.apple.com/us/app/say-no-to-notch/id1639306886?mt=12) by [Honghao Zhang](https://github.com/honghaoz)
 - [TopNotch](https://topnotch.app)
 
 ## Developer Utilities
 
-- [Airtool](https://www.intuitibits.com/products/airtool2/) - 3-day free trial, then $29.99
-- [Anvil](https://anvilformac.com)
-- [AnyBar](https://github.com/tonsky/AnyBar)
+- [Airtool](https://www.intuitibits.com/products/airtool2/) by [Intuitibits, LLC.](https://www.intuitibits.com/) — Capture Wi-Fi traffic like a Pro — 3-day free trial, then $29.99
+- [AnyBar](https://github.com/tonsky/AnyBar) by [Nikita Prokopov](https://tonsky.me/) — Displays a colored dot that can be scripted to indicate anything — Free, open source
 - [BashBar](https://github.com/tbrek/BashBar)
 - [Bidbar](https://www.getbidbar.com/) - 7-day free trial, then $10
 - [brew MAMP Panel](https://github.com/jiayouzl/brew-MAMP-Panel)
@@ -186,6 +182,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [CCMenu](http://ccmenu.org)
 - [Chameleon](https://chameleon.level3studios.net)
 - [CI Demon](https://github.com/dimaportenko/cidemon)
+- [CleanerXcode](https://github.com/didisouzacosta/CleanerXcode) by [Adriano Souza Costa](https://adrianosouzacosta.com.br) — Remove derived data, build caches, and simulator data from Xcode — Free, open source
 - [Contexto](https://github.com/alrico88/contexto)
 - [DevBar](https://apps.apple.com/us/app/devbar/id1462747827?mt=12)
 - [Devmarks Menubar](https://github.com/adamghill/devmarks-menubar)
@@ -204,7 +201,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [IPInfo](https://ipinfo.benny.fun)
 - [Jirara](https://github.com/kingcos/Jirara)
 - [KickShell](https://github.com/amazingyyc/KickShell)
-- [KubeContext](https://github.com/turkenh/KubeContext)
+- [KubeContext](https://github.com/turkenh/KubeContext) by [Hasan Turken](https://github.com/turkenh) — Manage Kubernetes Contexts — Free, open source
 - [launch-tray](https://github.com/nyampass/launch-tray)
 - [LeetBar](https://github.com/marwanhawari/LeetBar)
 - [LocalSwitch](https://github.com/artginzburg-archive/LocalSwitch)
@@ -235,7 +232,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [SpaceBar](https://github.com/streetturtle/SpaceBar)
 - [Space HUD](https://menubar-apps.github.io/#space-hud)
 - [Sparc](https://github.com/ox/sparc)
-- [Sprinkles](https://apps.apple.com/us/app/sprinkles-mod-the-web/id1500209074?mt=12) by [Mikkel Malmberg](https://mikkelmalmberg.com)
+- [Sprinkles](https://apps.apple.com/us/app/sprinkles-mod-the-web/id1500209074?mt=12) by [Mikkel Malmberg](https://mikkelmalmberg.com) — Modify the web with custom CSS and JS — Free
 - [Streaker](https://github.com/jamieweavis/streaker)
 - [Symbar](https://apps.apple.com/us/app/symbar/id1577268085?mt=12)
 - [Virtualbox Menulet](https://github.com/cviebrock/VirtualBox-Menulet)
@@ -253,6 +250,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Cloud Snippets](https://cloudsnippets.twoint.com)
 - [CodeGofer](https://apps.apple.com/us/app/codegofer/id730254832?mt=12)
 - [Codelime](https://apps.apple.com/us/app/codelime-snippet-dev-tools/id1622145140)
+- [Command Keeper](https://www.widgetworx.com/apps/commandkeeper.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Collect and organize your command line snippets and scripts for quick access — Free
 - [Dropa](https://apps.apple.com/us/app/dropa/id1362416136?mt=12)
 - [Limpet](https://alexgoff.gumroad.com/l/limpet)
 - [Quick Copy](https://apps.apple.com/us/app/quick-copy-searchable-snippets/id1456519049?mt=12)
@@ -304,6 +302,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Minesweeper Menu Bar](https://apps.apple.com/us/app/minesweeper-menu-bar/id1570877375?mt=12)
 - [Minesweepey](https://getniceapps.com/minesweepey)
 - [Sudoku Anyway](https://apps.apple.com/us/app/sudoku-anyway/id6469003116?mt=12) by [Lotus & Company](https://lotusandcompanyinc.com/)
+- [Sudokubar](https://apps.apple.com/us/app/sudokubar/id6744259575?mt=12) by [Lucas Raggers](https://lucas.io) — Classic Sudoku game in the menu bar — Free
 - [TicTacToe - Menu Edition](https://apps.apple.com/us/app/tictactoe-menu-edition/id1158666745?mt=12)
 
 #### Game Utilities
@@ -449,6 +448,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [NBA Bar](https://github.com/homerchen19/nba-bar)
 - [ScoreBar](https://github.com/csgulati09/homebrew-scorebar)
 - [Scorebar](https://apps.apple.com/us/app/scorebar/id1552514399)
+- [StartLights](https://apps.apple.com/us/app/startlights-formula-race-hub/id6741859212?mt=12) by [Stefan Petrovic](https://x.com/cwbngakd) — F1 Schedules, Results, & Standings — Free tier, premium upgrade for $1.99/month or $19.99 one-time purchase
 - [SwellBar](https://apps.apple.com/us/app/swellbar/id6499383000?mt=12)
 - [World Cup Bar](https://cyrilniobe.gumroad.com/l/world-cup-mac-bar)
 
@@ -476,6 +476,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Hyperfocus](https://hyperfocus.health)
 - [Intermission - Breaks For Eyes](https://apps.apple.com/us/app/intermission-breaks-for-eyes/id1439431081?mt=12)
 - [Menu Bar Breathing](https://github.com/akaalias/menu-bar-breathing)
+- [Micro Break](https://www.bschoy.com/micro-break) by [Bschoy Laban](https://www.bschoy.com) — Avoid eye strain and fatigue with micro breaks — Free
 - [Momentum Habit Tracker](https://apps.apple.com/us/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12)
 - [Multi-Breaks](https://github.com/namuan/multi-breaks)
 - [Nightscout Menu Bar](https://github.com/adamd9/Nightscout-MacOS-Menu-Bar/)
@@ -504,7 +505,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Barbell](https://github.com/agencyenterprise/barbell)
 - [Dev 10](https://github.com/sarthology/Dev10)
-- [Mackernews](https://mburakerman.github.io/mackernews/)
+- [Mackernews](https://mburakerman.github.io/mackernews/) by [Mehmet Burak Erman](https://mburakerman.github.io) — Hacker News in the menu bar — Free, open source
 - [Readify](https://apps.apple.com/us/app/readify/id1513518320?mt=12)
 - [RSS Ticker](https://apps.apple.com/us/app/rss-ticker-news-feed/id6737011935?mt=12) by [Zuri Apps](https://zuriapps.com/)
 
@@ -569,7 +570,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Clean Calendar](https://apps.apple.com/us/app/clean-calendar/id1432277471?mt=12)
 - [CornerCal](https://github.com/ekreutz/CornerCal)
 - [Dato](https://sindresorhus.com/dato)
-- [DayBar](https://apps.apple.com/us/app/daybar/id6739052447?mt=12) by [jaywcjlove (小弟调调)](https://wangchujiang.com)
+- [DayBar](https://apps.apple.com/us/app/daybar/id6739052447?mt=12) by [jaywcjlove (小弟调调)](https://wangchujiang.com) — Todo, Date, Events & Reminders — Free tier, optional $3.99 one-time upgrade
 - [Daybar](https://github.com/stakes/Daybar)
 - [Day-O](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina)
 - [Days Left Lite](https://apps.apple.com/us/app/days-left-lite/id1242931529?mt=12)
@@ -589,7 +590,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Just a calendar](https://apps.apple.com/us/app/just-a-calendar-simple-neat/id1600586231?mt=12)
 - [LatinCalendar](https://apps.apple.com/us/app/latincalendar/id1266565399?mt=12)
 - [LatinTime](https://apps.apple.com/us/app/latintime/id1286643207?mt=12)
-- [Lilius](https://apps.apple.com/us/app/lilius/id1459465139?mt=12)
+- [Lilius](https://apps.apple.com/us/app/lilius/id1459465139?mt=12) by Overmorrow, Inc. — Menu Bar Drop Down Calendar — Free tier, $1.99/month upgrade for Outlook and Google Calendar integrations
 - [LunarBar](https://github.com/LunarBar-app/LunarBar)
 - [LunarCal](http://www.galaworks.com/lunarcal/index_en.html)
 - [Quick View Calendar](https://apps.apple.com/us/app/quick-view-calendar/id1087080039?mt=12)
@@ -652,8 +653,10 @@ If you find that an app is missing, that any of the links are broken, or that th
 ### Notes
 
 - [Air Sketch Screen Notes](https://apps.apple.com/us/app/air-sketch-screen-notes/id1286744480?mt=12)
+- [BarNotes](https://apps.apple.com/us/app/barnotes/id6744329261?mt=12) by [Tanish Mittal](https://github.com/DexterDotCode) — Free, open source
 - [alto.computer](https://apps.apple.com/us/app/alto-computer/id6480425094?mt=12)
-- [Curiota](https://apps.apple.com/us/app/curiota/id1038088531?mt=12)
+- [Curiota](https://apps.apple.com/us/app/curiota/id1038088531?mt=12) by [Zengobi, Inc.](https://www.zengobi.com) — Fast, always available notes and collecting files using standard file formats — Free
+- [DropNote](https://dropnote.dev) by [bastian](https://bbastian.xyz) — Minimalist app for quick notes — Free, open source
 - [FiveNotes](https://www.apptorium.com/fivenotes)
 - [FlowNote](https://github.com/Yiiipu/FlowNote)
 - [Ghostnote](https://www.ghostnoteapp.com)
@@ -683,7 +686,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys)
 - [Quick Notes](https://apps.apple.com/us/app/quick-notes-email-me/id1090744587)
 - [Quicky Note](https://apps.apple.com/us/app/quicky-note/id6463947773?mt=12)
-- [Quill](https://widgetworx.com/apps/quill.html)
+- [Quill](https://widgetworx.com/apps/quill.html) by [Ari Feldman](https://www.widgetworx.com/about/)
 - [Scratchpad](https://sindresorhus.com/scratchpad)
 - [Scrawl](https://apps.apple.com/us/app/scrawl/id1249895598?mt=12)
 - [Skitch](https://evernote.com/products/skitch)
@@ -713,6 +716,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [iLove Sticky Notes](https://apps.apple.com/us/app/ilove-sticky-notes/id1096650860?mt=12)
 - [Quick Note](https://apps.apple.com/us/app/quick-note-one-click-notes/id1472935217?mt=12)
 - [Simple Antnotes](https://apps.apple.com/us/app/simple-antnotes/id846599902?mt=12)
+- [Stickier](https://camazotz.com/stickier/) by [Mark Smith (Camazotz)](https://camazotz.com)
 - [Sticklets](https://apps.apple.com/us/app/sticklets/id1633701470?mt=12)
 
 ### Productivity Aides
@@ -724,6 +728,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [HokusFokus](https://apps.apple.com/us/app/hokusfokus/id1659087771?mt=12)
 - [Isolator](https://www.willmore.eu/software/isolator/)
 - [KeepOff](https://github.com/s3cr3tmyth/KeepOff)
+- [Monocle](https://monocle.heyiam.dk) by [Dominik Kandravý](https://www.heyiam.dk) — 7-day free trial, then $4 one-time purchase
 
 ### Task Management
 
@@ -769,19 +774,22 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Status bar to-do list](https://apps.apple.com/us/app/status-bar-to-do-list/id1665891668?mt=12)
 - [Taskito](https://github.com/libekonst/Taskito)
 - [TaskTab](https://apps.apple.com/us/app/tasktab-simple-to-do-list/id1395414535?mt=12)
+- [Tasktile](https://github.com/jasonqiu0/Tasktile) by [Jason Qiu](https://github.com/jasonqiu0) — Track tasks with a tiled Activity Graph — Free, open source
 - [Tassk](https://github.com/furkanhatipoglu/tassk)
 - [The Hit List](http://www.karelia.com/products/the-hit-list/mac.html)
+- [Time Until](https://widgetworx.com/apps/timeuntil.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Countdown timer for any date or event with lots of options — Free
 - [ToDoBar](https://apps.apple.com/us/app/todobar/id1641624925?mt=12)
 - [Todoey](https://www.getniceapps.com/todoey-2)
 - [Todollo](https://apps.apple.com/us/app/todollo/id1631501134?mt=12)
 - [U Do](https://github.com/chriyocc/U-Do)
 - [WIP Menubar](https://apps.apple.com/us/app/wip-menubar/id1456413506?mt=12)
-- [99 Things](https://widgetworx.com/apps/99things.html)
+- [99 Things](https://widgetworx.com/apps/99things.html) by [Ari Feldman](https://www.widgetworx.com/about/) — A lightweight and intuitive to-do app — Free
 
 ### Timers & Stopwatches
 
 - [Activity Timer](https://apps.apple.com/us/app/activity-timer/id808647808?mt=12)
 - [Aegis Timer](https://apps.apple.com/us/app/aegis-timer/id1513455399)
+- [AL-60](https://apps.apple.com/us/app/al-60-visual-focus-timer/id6745137008?mt=12) by [Ferdi Kızıltoprak](https://ferdi.app/) — Analog-inspired focus timer — Free
 - [Be Focused](https://apps.apple.com/us/app/be-focused-focus-timer/id973134470?mt=12)
 - [bFocus](https://apps.apple.com/us/app/bfocus-focus-pomodoro-timer/id1541968593?mt=12)
 - [Bluebird Focus Timer](https://apps.apple.com/us/app/bluebird-focus-timer/id1478757472)
@@ -794,8 +802,10 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Computer Time](https://github.com/rbrich/computer-time/)
 - [Countdowns](https://apps.apple.com/us/app/countdowns/id1415311616?mt=12)
 - [Countdown Timer Plus](https://apps.apple.com/us/app/countdown-timer-plus/id1150771803?mt=12)
+- [Countdown Timer Pro](https://apps.apple.com/us/app/countdown-timer-pro/id6744842468?mt=12) by Nicolas Øbakke — Create highly customizable countdown timer overlays — Free
 - [C1t1](https://github.com/e9t/c1t1/)
 - [Desktop flip clock](https://apps.apple.com/us/app/desktop-flip-clock-countdown/id1553591814?mt=12)
+- [DropClock](https://github.com/WrkX/Dropclock/) by [WrkX](https://github.com/WrkX) — Effortless Timers from Your Menu Bar
 - [Easy Pomodoro](https://apps.apple.com/us/app/easy-pomodoro-pomodoro-timer/id1439714447?mt=12)
 - [Flexible Timers](https://apps.apple.com/us/app/flexible-timers/id1296620733?mt=12)
 - [Floating Clock](https://apps.apple.com/us/app/floating-clock-timer-stopwatch/id1545752052)
@@ -825,6 +835,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Menu bar Timer](https://github.com/johnyleebrown/menubar-timer)
 - [MenuTimer](https://apps.apple.com/us/app/menutimer-menu-bar-tiny-timer/id6473223526?mt=12)
 - [Menu Timers - High Precision](https://apps.apple.com/us/app/menu-timers-high-precision/id6443546789?mt=12)
+- [Mini Countdown Bar](https://apps.apple.com/us/app/mini-countdown-bar/id6741984495?mt=12) by [Zhou Dongliang](https://zhoudongliang.github.io) — Free tier, $0.99 one-time purchase for "Unlimited Use"
+- [Mini Stopwatch](https://apps.apple.com/us/app/mini-stopwatch-minimal-timer/id6739762059?mt=12) by [Clement Rousseau](https://clemstation.com) — The most minimalist menubar stopwatch for macOS — Free
 - [Moment](https://fireball.studio/moment)
 - [Moosti](https://www.moosti.com)
 - [Moso](https://github.com/rschiang/moso)
@@ -875,6 +887,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Tomato Bar](https://github.com/ivoronin/TomatoBar)
 - [Tomato One](https://apps.apple.com/us/app/tomato-one-free-focus-timer/id907364780?mt=12)
 - [Tomato 2](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770?mt=12)
+- [Tomighty](https://tomighty.org/mac/) by [Célio Cidral Jr](https://github.com/ccidral) — Timer app that helps you apply the Pomodoro Technique — Free, open source
 - [Touch Tomato Timer](https://apps.apple.com/us/app/touch-tomato-timer/id1453015204?mt=12)
 - [Tomo](https://apps.apple.com/us/app/tomo-simple-focus-clock/id1552819174?mt=12)
 - [Top Bar Timer](https://apps.apple.com/us/app/top-bar-timer/id520755313?mt=12)
@@ -891,7 +904,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Aware](https://apps.apple.com/us/app/aware/id1082170746?mt=12)
 - [Awareness Timer](https://apps.apple.com/us/app/awareness-timer/id1497695227?mt=12)
 - [Beddy Butler](https://apps.apple.com/us/app/beddy-butler/id1197329062?mt=12)
-- [Breakin'](https://www.widgetworx.com/apps/breakin.html)
+- [Breakin'](https://www.widgetworx.com/apps/breakin.html) by [Ari Feldman](https://www.widgetworx.com/about/)
 - [Daylight](https://github.com/lukasschwab/daylight)
 - [Day Progress](https://sindresorhus.com/day-progress)
 - [Dojo](https://apps.apple.com/us/app/menu-bar-reminder-dojo/id1605782460?mt=12)
@@ -917,6 +930,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [alto.daily](https://apps.apple.com/us/app/alto-daily/id6478018751?mt=12)
 - [AutoTimer](https://apps.apple.com/us/app/autotimer-hours-counter/id1350158432?mt=12)
+- [BalmyTime](https://balmytime.app) by [Trii Hsia](https://bento.me/txperl) — Break reminder and screen time tracker — Free tier, $6.99 one-time purchase for Pro
 - [Billing Timer](https://apps.apple.com/us/app/billing-timer/id892142032?mt=12)
 - [Break - Auto Time Manager](https://apps.apple.com/us/app/break-auto-time-manager/id1273243144?mt=12)
 - [CiCo](https://github.com/chrischma/CiCo)
@@ -941,6 +955,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Recess](https://apps.apple.com/us/app/recess/id621451282?mt=12)
 - [RestMinder](https://apps.apple.com/us/app/restminder/id1575673623?mt=12)
 - [Ruddr](https://apps.apple.com/us/app/ruddr/id1575577714?mt=12)
+- [Simple Time Tracker](https://apps.apple.com/us/app/simple-time-tracker/id6642659223?mt=12) by [Matej Dorcak](https://github.com/Mattijah) — Manage Time, Tasks, and Hours — Free
 - [Taptile Timetracking 3](https://apps.apple.com/us/app/taptile-timetracking-3/id1288926259?mt=12)
 - [Tempodo](https://apps.apple.com/us/app/tempodo-to-do-list/id955276947?mt=12)
 - [Thiro](https://apps.apple.com/us/app/thiro/id1555982483)
@@ -976,6 +991,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ## Reference
 
+- [On This Day](https://apps.apple.com/us/app/on-this-day-historic-moments/id6744540422?mt=12) by Dawid Maciejewski — Features notable events that happened on this day in history — Free
 - [Who's Missing?](https://github.com/menubar-apps/who-is-missing/) by [Pavel Makhov](https://github.com/streetturtle)
 
 ## System Status
@@ -1020,9 +1036,10 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [CPU & Memory MenuBar](https://apps.apple.com/us/app/cpu-memory-menubar/id6496861579?mt=12)
 - [DataCever](https://datacever.com)
 - [Debookee Tools](https://apps.apple.com/us/app/debookee-tools/id1110355801?mt=12)
-- [Disk-O](https://widgetworx.com/projects/disko.html)
+- [Disk-O](https://widgetworx.com/apps/disko.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Keeps you informed about your Mac's storage usage — Free
 - [Disk Speed Monitor](https://apps.apple.com/us/app/disk-speed-monitor/id1607293361?mt=12)
 - [Disk Master](https://apps.apple.com/us/app/disk-master/id1542257445?mt=12)
+- [DiskView](https://apps.apple.com/us/app/diskview/id6627346631?mt=12) by [Matej Dorcak](https://github.com/Mattijah) — Lists free and used storage of all mounted drives — Free
 - [Display connected Wifi name](https://apps.apple.com/us/app/display-connected-wifi-name/id1526918434?mt=12)
 - [DownTime](https://github.com/JonahU/DownTime)
 - [Easy Ethernet Icon](https://github.com/felixblome/easy-ethernet-icon) by [Felix Blome](https://github.com/felixblome)
@@ -1098,6 +1115,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Pinger](https://github.com/aseba/Pinger)
 - [Pingr](https://getpingr.app)
 - [PingStatus](https://github.com/ashishpawar517/macbook-ping-menu-bar)
+- [PowerHungry](https://www.louisdassy.dev/PowerHungry) by [Louis Dassy](https://www.louisdassy.dev) — Displays AC adapter power and remaining battery time — Free
 - [Power On Time](https://apps.apple.com/us/app/power-on-time/id1134653998?mt=12)
 - [Public IP](https://apps.apple.com/us/app/public-ip/id6449373983?mt=12)
 - [RAM-Monitor](https://github.com/tariq-c-dev/RAM-Monitor)
@@ -1110,6 +1128,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Simple Battery Monitor](https://apps.apple.com/us/app/simple-battery-monitor/id1234579481?mt=12)
 - [Simple Memory Indicator](https://github.com/gs-asrivastav/simple-memory-indicator)
 - [SimpleStatSpeed](https://statspeed.davidkoenig.de)
+- [Sleep Aid](https://ohanaware.com/sleepaid/) by [Ohanaware](https://ohanaware.com/about/) — 14-day free trial, then $25
 - [SlimBatteryMonitor](https://www.orange-carb.org/SBM/)
 - [Space Watcher](https://apps.apple.com/us/app/space-watcher/id1667832220?mt=12)
 - [Speediness](https://sindresorhus.com/speediness)
@@ -1134,6 +1153,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Usage](https://apps.apple.com/us/app/usage-system-activity-monitor/id1561788435?mt=12)
 - [µStatus](https://github.com/kdungs/uStatus/)
 - [Vitals](https://github.com/hmarr/vitals)
+- [WattSec](https://github.com/beutton/wattsec) by [Ben Beutton](https://github.com/beutton)
 - [WhichSpace](https://github.com/gechr/WhichSpace)
 - [WiFiName](https://github.com/ChillarAnand/WiFiName)
 - [wifiname](https://github.com/clarkio/macos-wifiname)
@@ -1179,6 +1199,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ## Travel & Transit
 
+- [FlightBar](https://apps.apple.com/us/app/flightbar/id6743351003?mt=12) by [Rajveer Sodhi](https://rajveersodhi.com/) — Track flights from the menu bar — Free
 - [ICE Buddy](https://apps.apple.com/us/app/ice-buddy-for-your-menu-bar/id1595947689?mt=12) by [Frederik Reidel](https://riedel.wtf)
 - [Mind The App](https://apps.apple.com/us/app/mind-the-app/id1534048719) by [Attila Nemet](https://www.attilanemet.com)
 
@@ -1191,11 +1212,14 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [DynaMouse](https://github.com/projectstorm/dynamouse)
 - [FingertipFlying](https://github.com/yanyuxiangToday/FingertipFlying)
 - [I am here](https://github.com/ivanoats/i-am-here)
+- [iCloud Kicker](https://widgetworx.com/apps/icloudkicker.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Force sync your iCloud files instantly — Free
 - [Jiggler](https://github.com/moseswynn/mouse-jiggler)
-- [Jiggly](https://www.widgetworx.com/apps/jiggly.html)
+- [Jiggly](https://widgetworx.com/apps/jiggly.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Periodically moves your Mac's mouse cursor on a regular time interval — Free
+- [Last Window Quits](https://lawand.io/last-window-quits/) by [Omar Lawand Dalatieh](https://lawand.io)
 - [MagicQuit](https://magicquit.com)
 - [MenuBar Next](https://motionobj.com/menubar-next/)
 - [MonkeyDo](https://github.com/wookiee/monkeydo)
+- [Mouse Jiggler](https://apps.apple.com/us/app/mouse-jiggler-mouse-mover/id6740313656?mt=12) by Bohdan Bilous — Prevent Mac from sleep with Mac Mouse Mover — Free
 - [OSCbar](https://cmohnacs.github.io/OSCbar/)
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) by [Felix Krause](https://krausefx.com/)
 - [PinFrame](https://unboxing.fun/apps/pinframe)
@@ -1207,6 +1231,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 ### AI
 
 - [AI Chat](https://www.chatbar.top)
+- [Apple AI](https://bunnysayzz.github.io/AppleAI/) by [Md Azharuddin](https://imazhar.vercel.app) — A unified interface for multiple AI assistants — Free, open source
 - [ChatGPT](https://github.com/vincelwt/chatgpt-mac)
 - [ChatGPT Client](https://github.com/pseudocoder-in/ChatGPT)
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)
@@ -1225,6 +1250,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [MacPoe](https://goodsnooze.gumroad.com/l/macpoe)
 - [Nova: AI Assistant](https://apps.apple.com/us/app/nova-ai-assistant/id6447199502?mt=12)
 - [Peek](https://prateekkeshari.gumroad.com/l/peek)
+- [PopTranslate](https://poptranslate.app) by [Tutu Studio](https://tutu.studio) — Translates selected text, compares translations, and OCR using AI — Free tier with 10 queries/day, $1.99/month upgrade for more queries and advanced models
+- [Promptly for AI](https://apps.apple.com/us/app/promptly-for-ai/id6741008514?mt=12) by [Hasan Turken](https://github.com/turkenh) — Process any visible text on your screen with AI actions — Free with 50 queries/day
 - [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt)
 - [Qwen4Mac](https://github.com/andreaturchet/Qwen4Mac)
 - [Shello.ai](https://apps.apple.com/us/app/shello-ai-desktop/id1666622039?mt=12)
@@ -1307,6 +1334,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Jumpcut](https://snark.github.io/jumpcut/)
 - [Maccy](https://maccy.app)
 - [Mockingbird](https://github.com/brigonzalez/Mockingbird)
+- [Macopy](https://macopy.kk-web.link) by [Kouhei Kawamura (piro)](https://kk-web.link) — A minimal clipboard history tool — Free, open-source
 - [OmniCopy](https://apps.apple.com/us/app/omnicopy/id1211469284?mt=12)
 - [Pasta](https://apps.apple.com/us/app/pasta/id1438389787?mt=12)
 - [Pasteboard](https://github.com/liang2kl/Pasteboard)
@@ -1338,6 +1366,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Coloree](https://apps.apple.com/us/app/coloree/id1435299183?mt=12)
 - [Color Juicer](https://apps.apple.com/us/app/color-juicer/id1191209926?mt=12)
+- [ColorKeep](https://colorkeep.attach.design) by [Attach Design](https://attach.design) — Track copied colors automatically — 7-day free trial, then $2.99 one-time purchase
 - [Color Maker](https://apps.apple.com/us/app/color-maker/id561995913?mt=12)
 - [Color Peeker](https://apps.apple.com/us/app/color-peeker/id1592573138?mt=12)
 - [ColorPicker](http://www.northernspysoftware.com/software/colorpicker)
@@ -1370,12 +1399,13 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Roy](https://www.useroy.com)
 - [Sip](https://sipapp.io)
 - [Status Color Meter](https://github.com/carson-katri/status-color-meter)
+- [SwatchKeep](https://davidevago.com/swatchkeep/) by [Davide Vago](https://davidevago.com) — Capture, store, and access color codes across your Mac — Free
 - [System Color Picker](https://apps.apple.com/us/app/system-color-picker/id1545870783?mt=12)
 - [Tint](https://apps.apple.com/us/app/tint-a-better-color-picker/id1551486913?mt=12)
 
 ### Counting
 
-- [DayCounter](https://apps.apple.com/us/app/daycounter-d-day-countdown/id1514821100?mt=12)
+- [DayCounter](https://apps.apple.com/us/app/daycounter-d-day-countdown/id1514821100?mt=12) by [Monobutton](https://app.monobutton.com/) — Count your days on your menubar — Free tier, $1.99 one-time purchase for four additional slots
 - [MCounter](https://github.com/mnxn/MCounter)
 
 ### Currency
@@ -1426,7 +1456,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Crypto Pro](https://apps.apple.com/us/app/crypto-pro-bitcoin-tracker/id980888073)
 - [CryptoTicker](https://apps.apple.com/us/app/cryptoticker/id1487304322?mt=12)
 - [Crypto Tools](https://apps.apple.com/us/app/crypto-tools/id1345035239?mt=12)
-- [Ethereum Gas Bar](https://apps.apple.com/us/app/ethereum-gas-bar-with-alert/id1607855871?mt=12)
+- [Ethereum Gas Bar](https://apps.apple.com/us/app/ethereum-gas-bar-with-alert/id1607855871?mt=12) by [Monobutton](https://app.monobutton.com/) — Watch Ethereum gas prices on the menu bar — Free
 - [ETH Gas Alert](https://ethgas.carrd.co)
 - [Fuel](https://apps.apple.com/us/app/fuel-live-crypto-gas-prices/id1615587897?mt=12)
 - [koinex-status-ticker](https://github.com/kirantambe/koinex-status-ticker/)
@@ -1476,10 +1506,11 @@ If you find that an app is missing, that any of the links are broken, or that th
 ### Finance
 
 - [GlimpseEase](https://apps.apple.com/us/app/glimpseease-menubar-stripe/id6503211877?mt=12)
+- [Subscription Day. Calendar](https://apps.apple.com/us/app/subscription-day-calendar/id6743316600?mt=12) by [Appps](https://appps.od.ua/) — Keep track of your paid subscriptions and analyze statistics — Free tier, $7.99 one-time purchase for full version
 
 ### Image and Video
 
-- [Alchemy](https://dawnlabs.github.io/alchemy/)
+- [Alchemy](https://dawnlabs.github.io/alchemy/) by [Dawn Labs](https://dawnlabs.github.io/) — Convert and merge files from the menu bar — Free, open source
 - [App for Pixabay](https://basilsalad.com/os-x/app-pixabay/?utm_campaign=MacUpdate_Pixabay&utm_source=MacUpdate&utm_medium=catalog&utm_content=StackMenu&utm_term=ProductURL)
 - [Bunny - Menubar Gallery](https://apps.apple.com/us/app/bunny-menubar-gallery/id6737684816?mt=12)
 - [Clop](https://lowtechguys.com/clop/)
@@ -1522,13 +1553,14 @@ If you find that an app is missing, that any of the links are broken, or that th
 #### Screenshots / Screen Recording
 
 - [Any Recorder Lite](https://apps.apple.com/us/app/any-recorder-lite/id738913756?mt=12)
-- [AutoShot](https://arthursmithdev.gumroad.com/l/AutoShot) by Arthur Smith
+- [AutoShot](https://arthursmithdev.gumroad.com/l/AutoShot) by Arthur Smith — Automatically take screenshots of your screen at set intervals — Free ($2+ donation requested but not required)
 - [Capster](https://macmenubar.com/capster/)
 - [Capture Screen Lite](https://apps.apple.com/us/app/capture-screen-lite/id617602554?mt=12)
 - [CloudApp](https://www.getcloudapp.com)
 - [DreamShot](https://apps.apple.com/us/app/dreamshot-screenshot-shortcut/id689844304?mt=12)
 - [Easy Screen Recorder](https://apps.apple.com/us/app/easy-screen-recorder/id1480152694?mt=12)
 - [Filmage Screen](https://apps.apple.com/us/app/filmage-screen-screen-recorder/id1475049179?mt=12)
+- [Flameshot](https://flameshot.org) — Powerful, yet simple to use screenshot software — Free, open source
 - [Gerry](https://apps.apple.com/us/app/gerry-screen-recorder/id1637295586?mt=12)
 - [iCapturer](https://apps.apple.com/us/app/icapturer-screen-recording/id1602103302?mt=12)
 - [Icecream Screen Recorder](https://apps.apple.com/us/app/icecream-screen-recorder-free-version/id1114761692?mt=12)
@@ -1536,7 +1568,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [iShot](https://apps.apple.com/us/app/ishot-screenshot-recording-ocr/id1485844094?mt=12)
 - [Kap](https://github.com/wulkano/kap)
 - [LinRecord](https://apps.apple.com/us/app/linrecord-screen-recorder/id1511249774?mt=12)
-- [Menu Snappr II](https://widgetworx.com/projects/menu_snappr.html)
+- [Menu Snappr II](https://widgetworx.com/apps/menu_snappr.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Effortless screen capture directly from the menu bar — Free
 - [Monosnap](https://monosnap.com/welcome)
 - [Pixave](https://apps.apple.com/us/app/pixave/id924891282?mt=12)
 - [RetroClip](https://apps.apple.com/us/app/retroclip/id1332064978?mt=12)
@@ -1610,7 +1642,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Wallpaper Menu](https://ylin.co)
 - [Wallpapers X](https://apps.apple.com/us/app/wallpapers-x-4k-wallpapers/id1488071784?mt=12)
 - [WallpDesk](https://github.com/axeII/WallpDesk)
-- [Web Wallpaper](https://widgetworx.com/projects/webwall.html)
+- [Web Wallpaper](https://widgetworx.com/projects/webwall.html) by [Ari Feldman](https://www.widgetworx.com/about/)
 - [Worldpaper](https://apps.apple.com/us/app/worldpaper-daily-wallpapers/id1465912903?mt=12)
 
 ### IoT
@@ -1658,7 +1690,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 ### Keyboard Shortcuts
 
 - [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12)
-- [LeaderKey](https://github.com/mikker/LeaderKey.app) by [Mikkel Malmber](https://mikkelmalmberg.com/)
+- [LeaderKey](https://github.com/mikker/LeaderKey.app) by [Mikkel Malmber](https://mikkelmalmberg.com/) — The *faster than your launcher* launcher — Free, open source
 
 ### Lists/Collections/Read-It-Later
 
@@ -1732,6 +1764,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Fover](https://apps.apple.com/us/app/fover/id6478125504?mt=12)
 - [Little Tagger](https://littletagger.com)
 - [Mr. Tidy](https://apps.apple.com/us/app/mr-tidy/id1063178800?mt=12)
+- [Screenshot Organizer](https://github.com/reorx/screenshot-organizer) by [Xiao Meng](https://reorx.com) — Automatically organizes screenshot files into year/month folders — Free, open source
 - [Shade](https://apps.apple.com/us/app/shade/id546881298?mt=12)
 - [Unhidy](https://github.com/danieldbird/unhidy)
 
@@ -1777,6 +1810,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Settings
 
+- [AIBattery](https://github.com/whuan132/AIBattery-Charge-Limiter/)
 - [Airplane](https://airplanemac.carrd.co)
 - [AppPolice](https://github.com/AppPolice/AppPolice)
 - [AnySwitch](https://apps.apple.com/us/app/anyswitch-powerful-toggles/id6444313776?mt=12)
@@ -1785,6 +1819,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Battery Charge Limiter](https://github.com/actuallymentor/battery)
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 - [Bluesnooze](https://github.com/odlp/bluesnooze/)
+- [Bluetooth Mic Switch](https://dunelly.github.io/Bluetooth-Mic-Switch/) by [dunelly](https://github.com/dunelly) — Fix audio issues by auto-switching to your internal mic when Bluetooth connects — Free, open source
 - [Boo](https://github.com/dimovskidamjan/Boo)
 - [Brightness Slider](https://apps.apple.com/us/app/brightness-slider/id456624497?mt=12)
 - [Clamshell](https://apps.apple.com/us/app/clamshell/id6477896729?mt=12)
@@ -1798,6 +1833,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Display Rotation Menu](https://www.magesw.com/displayrotation/)
 - [Displays](https://www.jibapps.com/apps/displays/)
 - [DND Me](https://runtimesharks.com/projects/dnd-me)
+- [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) by [glinford](https://github.com/glinford) — Quickly switch between different DNS providers — Free, open source
+- [DockLock Lite](https://apps.apple.com/us/app/docklock-lite/id6741814079?mt=12) by [Ighor July](https://github.com/JulyIghor) — Prevent unwanted dock movement between screens — 7-day free trial, then $0.99/month (or $14.99 one-time for full version)
 - [Doll](https://github.com/xiaogdgenuine/Doll)
 - [Dusk](https://widgetworx.com/projects/dusk.html)
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
@@ -1828,11 +1865,11 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Macos-Spaces](https://github.com/collinmurch/macos-spaces)
 - [Mauno](https://mahdi.jp/apps/mauno)
 - [Menubar Auto Brightness](https://github.com/MrRobz/menubar-auto-brightness)
-- [MenuBarVolume](https://github.com/bakkot/MenuBarVolume)
+- [MenuBarVolume](https://github.com/bakkot/MenuBarVolume) by [Kevin Gibbons](https://github.com/bakkot) — Show volume in menu bar even when using headphones — Free, open source
 - [Menu Playthrough](https://github.com/melvyn2/MenuPlaythrough)
 - [Mic Drop](https://apps.apple.com/us/app/mic-drop-mute-manager/id1489816366?mt=12) by [Octopus Think](https://octopusthink.com)
-- [Micmute](https://github.com/rokartur/Micmute)
-- [MicMüter](https://widgetworx.com/projects/micmuter.html)
+- [Micmute](https://rokartur.github.io/Micmute/) by [rokartur](https://github.com/rokartur) — Toggle microphone mute in any app — Free, open source
+- [MicMüter](https://widgetworx.com/apps/micmuter.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Toggle your Mac’s built-in microphone on and off — Free
 - [micSwitch](https://github.com/dstd/micSwitch)
 - [MonitorControl Lite](https://apps.apple.com/us/app/monitorcontrol-lite/id1595464182?mt=12)
 - [MonoSwitch](https://apps.apple.com/us/app/monoswitch/id1568916578?mt=12)
@@ -1863,6 +1900,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Scrollume](https://apps.apple.com/us/app/scrollume/id1056964838?mt=12)
 - [Shifty](https://shifty.natethompson.io/en/)
 - [Signal Shifter](https://apps.apple.com/us/app/signal-shifter/id6446061552?mt=12)
+- [Siliv](https://github.com/PaulShiLi/Siliv) by [Paul Li](https://github.com/PaulShiLi) — Utility to adjust Apple Silicon GPU VRAM allocation — Free, open source
 - [SleeperX](https://hsojo.github.io/SleeperX/)
 - [Sleep Expert](https://apps.apple.com/us/app/sleep-expert/id1173339541?mt=12)
 - [Sleepr](https://sleepr.app)
@@ -1921,7 +1959,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Sleep Control Centre](https://apps.apple.com/us/app/sleep-control-centre/id946798523?mt=12)
 - [Sleep Expert](https://apps.apple.com/us/app/sleep-expert/id1173339541?mt=12)
 - [Sleepless Mac](https://github.com/gsurma/sleepless_mac)
-- [Stim](https://www.widgetworx.com/resources/Stim_Universal.zip)
+- [Stim](https://widgetworx.com/apps/stim.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Keep your Mac from sleeping — Free
 - [Taurine](https://apps.apple.com/us/app/taurine/id960276676?mt=12)
 - [yaca](https://github.com/drproteus/yaca/)
 
@@ -1951,7 +1989,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [SPicker](https://apps.apple.com/us/app/spicker/id1639548770?mt=12)
 - [StockBar](https://github.com/fhl43211/StockBar)
 - [Stockman](https://github.com/awkj/stockman)
-- [StockMonitor](https://apps.apple.com/us/app/stockmonitor-in-your-menu-bar/id6738101067?mt=12)
+- [StockMonitor](https://apps.apple.com/us/app/stockmonitor-in-your-menu-bar/id6738101067?mt=12) by [Lukas Würzburger](https://lukaswuerzburger.github.io/) — Keep track of your stock investments — Free tier with limited features, full version for $19.99/year or $34.99 one-time purchase
 - [StocksBar](https://github.com/alexiscn/StocksBar)
 - [Stock Ticker](https://apps.apple.com/us/app/stock-ticker/id1502923895?mt=12)
 - [StockTrackr](https://apps.apple.com/us/app/stocktrackr/id1457916567?mt=12)
@@ -1965,9 +2003,10 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Air Browser 2](https://apps.apple.com/us/app/air-browser-2/id1571901314?mt=12)
 - [aLaunch](http://mactips-lib.net/m/software/alaunch/en/main.html)
 - [Alfred](https://www.alfredapp.com)
+- [AppBeBack](https://apps.apple.com/us/app/appbeback-cmd-z-for-apps/id1317253465?mt=12) by [Sergii Kryvoblotskyi](https://nsbeep.com/) — Reopen closed apps with SHIFT+CMD+Z — Free
 - [AppsBar](https://apps.apple.com/us/app/appsbar/id595978941?mt=12)
 - [AnyDrop](https://yuanjoy.com/anydrop)
-- [AutoRun](https://apps.apple.com/us/app/autorun-run-apps/id6739644500?mt=12) by [Holger Krupp](https://holgerkrupp.de)
+- [AutoRun](https://github.com/holgerkrupp/AutoRun) by [Holger Krupp](https://holgerkrupp.de) — Runs apps automatically on a schedule — Free, open source
 - [Blik](https://apps.apple.com/us/app/blik-easy-file-organization/id955293604?mt=12)
 - [Button 3](https://apps.apple.com/us/app/button-3/id1155342767?mt=12)
 - [Catapult](https://github.com/cerpow/catapult)
@@ -2027,13 +2066,14 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Skywhale](https://apps.apple.com/us/app/skywhale-menu-bar-browser/id1609165212?mt=12)
 - [Slapdash](https://slapdash.com)
 - [Slik](https://apps.inspira.io/en/slik/)
+- [SomLauncher](https://www.somapplication.com/launcher) by [Magnus von Scheele](https://github.com/magnusvs) — Launch all your workflows in one click — Free, open source
 - [start](https://apps.apple.com/us/app/start/id1329701389?mt=12)
 - [Switcheroo](https://apps.apple.com/us/app/switcheroo-fast-app-switcher/id1198084875?mt=12)
 - [Tab Switcher](https://apps.apple.com/us/app/tabs-switcher/id1406718335?mt=12)
 - [Tabz](https://apps.apple.com/us/app/tabz/id1449417295?mt=12)
 - [Thor](https://github.com/gbammc/Thor)
 - [Top-Drawer](https://github.com/SteveBarnegren/TopDrawer)
-- [Trash Buddy](https://www.widgetworx.com/v2/)
+- [Trash Buddy Plus](https://www.widgetworx.com/apps/trash_buddy.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Empty the trash with a keyboard shortcut — Free
 - [Trickster](https://www.apparentsoft.com/trickster) - 14-day free trial, then $29.99
 - [uDock](https://apps.apple.com/us/app/udock/id1563545181?mt=12)
 - [Unite](https://www.bzgapps.com/unite)
@@ -2058,6 +2098,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [OkTalk](https://apps.apple.com/us/app/oktalk-keyboard-translator/id1452146565)
 - [OneHighlighter](https://apps.apple.com/us/app/onehighlighter/id1131580917?mt=12)
 - [Oversetter](https://4gray.github.io/oversetter/)
+- [Quick Motivation](https://apps.apple.com/us/app/quick-motivation/id6741396236?mt=12) by [Matthew Manela](https://matthewmanela.com) — Pin motivational messages to the menu bar — Free, open source
 - [Quote Droplet](https://apps.apple.com/us/app/quote-droplet-daily-quotes/id6455084603)
 - [Quote of the Hour](https://apps.apple.com/us/app/quote-of-the-hour/id6476126609?mt=12)
 - [Quotes](https://github.com/joaofcosta/Quotes)
@@ -2068,7 +2109,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Short Menu URL Shortener](https://shortmenu.com/mac/)
 - [SmartPaste](https://apps.apple.com/us/app/smartpaste/id1540496001?mt=12)
 - [Spelling Alphabet](https://www.tunabellysoftware.com/spelling_alphabet/)
-- [Symbol Scribe](https://apps.apple.com/us/app/symbolscribe/id6470879005?mt=12) by [jaywcjlove (小弟调调)](https://wangchujiang.com)
+- [SymbolScribe](https://github.com/jaywcjlove/symbol-scribe) by [jaywcjlove (小弟调调)](https://wangchujiang.com) — Quickly copy and paste symbols, emoji, kaomoji, and more — Free
 - [TextSoap Menu](https://apps.apple.com/us/app/textsoap-menu/id525517698?mt=12)
 - [Tiny Ipsum](https://apps.apple.com/us/app/tiny-ipsum/id1445179392?mt=12)
 - [Tooth Paste](https://apps.apple.com/us/app/tooth-paste/id1134161004?mt=12)
@@ -2126,6 +2167,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [FuzzyTime](https://apps.apple.com/us/app/fuzzytime/id950297057?mt=12)
 - [Hipster](https://github.com/bertrandom/hipster)
 - [iClock S](https://apps.apple.com/us/app/iclock-s-clocks-chimes-alarms/id1387377422?mt=12)
+- [Menu Bar Timestamp](https://apps.apple.com/us/app/menu-bar-timestamp/id1531510661?mt=12) by [Steve Vezeau](https://github.com/Windovvsill) — Convert UNIX timestamps to human-readable dates — Free, open source
 - [JalaliDate](https://github.com/blackswandevcom/jalaliDate-macOS)
 - [Second Clock](https://apps.apple.com/us/app/second-clock-menu-bar-clock/id6447588601?mt=12)
 - [SubClock Lite](https://apps.apple.com/us/app/subclock-lite/id1501776505?mt=12)
@@ -2142,6 +2184,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Hour - World Clock](https://apps.apple.com/us/app/hour-world-clock/id569089415?mt=12)
 - [Hovrly](https://hovrly.com)
 - [Menu World Time](https://apps.apple.com/us/app/menu-world-time/id1446377255?mt=12)
+- [My Clocks](https://apps.apple.com/us/app/my-clocks-emoji-time-zone/id6740341495) by [Clement Rousseau](https://clemstation.com) — Personalized world clocks in your menu bar — Free tier, full version for $1.99/month or $15.99 one-time purchase
 - [SecondClock](https://apps.apple.com/us/app/secondclock-for-the-menu-bar/id1219227160?mt=12) by [Holger Krupp](https://holgerkrupp.de)
 - [Second Clock](https://apps.apple.com/us/app/second-clock/id6450279539?mt=12)
 - [Status Clock](https://apps.apple.com/us/app/status-clock/id552792489?mt=12)
@@ -2192,7 +2235,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [PurpleMenu](https://github.com/ayn/PurpleMenu)
 - [QAirMon](https://github.com/Mixarius/qAirMon)
 - [QWeather](https://apps.apple.com/us/app/qweather-visualized-weather/id1461458147)
-- [Qwik Weather](https://widgetworx.com/apps/qwik_weather.html)
+- [Qwik Weather](https://widgetworx.com/apps/qwik_weather.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Real-time weather updates for your favorite locations — Free
 - [SimpleWeathertMenu](https://apps.apple.com/us/app/simpleweathermenu/id6444447454?mt=12)
 - [Sparrow Weather](https://sparrow.menu)
 - [SunsetApp](https://github.com/vojty/sunset-app)
@@ -2246,7 +2289,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [GTab](https://apps.apple.com/us/app/gtab/id513330020?mt=12)
 - [Guso](https://apps.apple.com/us/app/guso-web-search-effortlessly/id1434234265?mt=12)
 - [iSearchBar](https://apps.apple.com/us/app/isearchbar/id1668321461?mt=12)
-- [Menupedia](https://widgetworx.com/projects/menupedia.html)
+- [Menupedia](https://widgetworx.com/apps/menupedia.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Access the vastness of Wikipedia right from your Mac's menu bar — Free
 - [NexSurf Browser](https://apps.apple.com/us/app/nexsurf-browser-floating-app/id6737469473?mt=12) by [Stackwares](https://stackwares.com/)
 - [Nimble](https://github.com/Maybulb/Nimble)
 - [Phlo](https://apps.apple.com/us/app/phlo-quick-search-box/id547094813?mt=12)
@@ -2258,6 +2301,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [AirBar](https://tiivik.github.io)
 - [Balance Bar](https://balancebar.app)
+- [Captin](https://captin.mystrikingly.com) by [cool8jay](https://cool8jay.github.io/) — A tool to show Mac caps lock status.
 - [Cheerlights](https://github.com/kiliankoe/Cheerlights)
 - [Chord Detector](https://apps.apple.com/us/app/chord-detector/id1219549675?mt=12)
 - [Clyde](https://www.getcly.de)
@@ -2267,12 +2311,15 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [KeyBell](https://alexdenk.eu/mywork/keybell.html)
 - [KeyClicker](https://wangchujiang.com/key-clicker/) by [jaywcjlove (小弟调调)](https://wangchujiang.com)
 - [Keydings](https://github.com/jsyang/keydings)
+- [Kwack](https://apps.apple.com/us/app/kwack/id6743252409?mt=12) by [Rhett Owen](https://www.rhett.info/) — Quacks when you type — Free
 - [leif](https://github.com/fetimo/leif)
 - [Macbar Next Bus](https://github.com/dbradleyfl/macbar-next-bus)
+- [MaClicker](https://github.com/WorldOfBasti/MaClicker) by [Bastian Schaefer](https://bastian-aunkofer.com)
 - [Macs Ager](https://github.com/loyihsu/macsager-mac)
 - [mutebutton](https://github.com/bringert/mutebutton/)
 - [On Air Warning](https://apps.apple.com/us/app/on-air-warning/id1593665655?mt=12)
 - [OnCue](https://apps.apple.com/us/app/oncue/id474607978?mt=12)
+- [PingPlace](https://github.com/NotWadeGrimridge/PingPlace) by [Wade Grimridge](https://6942020.xyz) — Control notification position — Free, open source
 - [PixelSnap](https://getpixelsnap.com)
 - [Pretzel](https://github.com/amiechen/pretzel)
 - [PSPEWC](https://github.com/jacquesCedric/PSPEWC-mac/)
