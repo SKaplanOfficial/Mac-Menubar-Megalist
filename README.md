@@ -2170,7 +2170,6 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Menu Bar Timestamp](https://apps.apple.com/us/app/menu-bar-timestamp/id1531510661?mt=12) by [Steve Vezeau](https://github.com/Windovvsill) — Convert UNIX timestamps to human-readable dates — Free, open source
 - [JalaliDate](https://github.com/blackswandevcom/jalaliDate-macOS)
 - [Second Clock](https://apps.apple.com/us/app/second-clock-menu-bar-clock/id6447588601?mt=12)
-- [SubClock Lite](https://apps.apple.com/us/app/subclock-lite/id1501776505?mt=12)
 - [Tempo](https://github.com/kibaffo33/Tempo)
 - [The Clock](https://www.seense.com/the_clock/)
 
