@@ -2155,7 +2155,6 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [BackgroundClock](https://apps.apple.com/us/app/backgroundclock/id1060642287?mt=12)
 - [BCDClock](https://apps.apple.com/us/app/bcdclock/id1121086399?mt=12)
 - [Beagle - Fancy MenuBar Clock](https://apps.apple.com/us/app/beagle-fancy-menubar-clock/id1410853764?mt=12)
-- [Big Clock](https://apps.apple.com/us/app/big-clock/id1193238959?mt=12)
 - [dotBeat](https://github.com/amiantos/dotbeat)
 - [Epoch](https://apps.apple.com/us/app/epoch/id1228241022?mt=12)
 - [EpochBar](https://apps.apple.com/us/app/epochbar/id6503478833?mt=12)
