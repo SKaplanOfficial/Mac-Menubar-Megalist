@@ -12,14 +12,20 @@ If you have a link to an app listed here without an archived download URL, pleas
 | dropandplay | Sebastian Fitz | [Website Archive](https://web.archive.org/web/20211201224451/http://fitzis.de/) • [App Store Archive](https://web.archive.org/web/20220422224748/https://apps.apple.com/app/id1302844224?mt=12) |
 | LibreSpot | [Ari Feldman](https://www.widgetworx.com/about/) | [Website Archive](https://web.archive.org/web/20230315051105/https://widgetworx.com/projects/libre_spot.html) |
 | Listen | Unknown | [Last Known URL](https://apps.apple.com/us/app/listen/id1128751438?mt=12) |
-| Lovely for Spotify | [Sascha Simon](https://sascha-simon.com/en/) | [Last Know URL](https://apps.apple.com/us/app/lovely-for-spotify/id1638957207?mt=12) |
+| Lovely for Spotify | [Sascha Simon](https://sascha-simon.com/en/) | [Last Known URL](https://apps.apple.com/us/app/lovely-for-spotify/id1638957207?mt=12) |
 | MenuSpot II | [Ari Feldman](https://www.widgetworx.com/about/) | [Website Archive](https://web.archive.org/web/20231205201242/https://www.widgetworx.com/v2/#portfolio-modal-4) • [Download Archive](https://web.archive.org/web/20231205201242/https://www.widgetworx.com/resources/Menu_Spot_II_Universal.zip) |
 | Music Paradise Player MP3 | [Music Paradise](https://musicparadise.mobi/) | [Website Archive](https://web.archive.org/web/20250313171845/https://musicparadise.mobi/en/music_paradise_player) • [App Store Archive](https://web.archive.org/web/20230407050118/https://apps.apple.com/us/app/music-paradise-player-mp3/id1053752846?mt=12) |
 | Rock Me Amadeus | [Vicente Garcia](https://vicegax.com/) | [GitHub Archive 1](https://web.archive.org/web/20200930142201/https://github.com/rock-me/player) • [GitHub Archive 2](https://web.archive.org/web/20201019002226/https://github.com/rock-me/amadeus) |
 
 ## Productivity
 
-### Timers & Stopwatches
+### Time & Date
+
+| Application | Creator | Links | Notes |
+| --- | --- | --- | --- |
+| Big Clock | [Sandor Szatmari](https://web.archive.org/web/20141218082427/http://szatmari.net/) | [Website Archive](https://web.archive.org/web/20220919225350/http://bigclock.szatmari.net/) • [App Store Archive](https://apps.apple.com/us/app/big-clock/id1193238959?mt=12) | No download available. |
+
+#### Timers & Stopwatches
 
 | Application | Creator | Links | Notes |
 | --- | --- | --- | --- |
