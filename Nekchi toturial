@@ -1,0 +1,39 @@
+<DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="description" content="free nexci tutorial">
+<meta name="keywords" content="nexci, nexci">
+<meta name="author" content="sofikul islam">
+
+<title>Nexci tutorial</title>
+
+<style>
+  body {
+    background-color: black;
+    text-align: center;
+  }
+
+  h1 { color: red; }
+  h6 { color: yellow; font-size: 12px; } 
+  h3 { color: white; }
+  h3.green { color: green; }
+</style>
+
+</head>
+<body>
+
+<h1><b> my name is Sofikul Islam.</b></h1>
+
+<h6>home is in Dinajpur.</h6>
+
+<h3>“=>A dear person is like the fog — you can see them, but you cannot touch them.”</h3>
+
+<h3 class="green">“That beloved person is like the mist — you can see them, but you can’t touch them.”</h3>
+
+</body>
+</html>
