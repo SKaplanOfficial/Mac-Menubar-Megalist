@@ -1205,6 +1205,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ## Utilities
 
+- [RenderFocus](https://celalbasaran.com/renderfocus/) - Advanced CPU scheduling utility that optimizes task distribution between P-Cores and E-Cores on Apple Silicon.
 - [Almighty - Powerful Tweaks](https://apps.apple.com/us/app/almighty-powerful-tweaks/id1576440429?mt=12)
 - [Badgeify](https://badgeify.app)
 - [Clapet](https://github.com/mbenoukaiss/clapet)
