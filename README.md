@@ -277,6 +277,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Jandi](https://apps.apple.com/us/app/jandi-growth-your-code/id1551460285?mt=12)
 - [Neat](https://neat.run)
 - [Noti](https://github.com/ye11ow/noti)
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) by [deepshal99](https://github.com/deepshal99) — A pixel-art crab lives in your MacBook's notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support — Free, open source
 - [OhMyPullRequests](https://github.com/luin/OhMyPullRequests)
 - [PR Ninja](https://apps.apple.com/us/app/pr-ninja/id1214506963?mt=12)
 - [PR-Shortcut](https://github.com/VincentHardouin/PR-Shortcut)
