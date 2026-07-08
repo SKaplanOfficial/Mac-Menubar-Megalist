@@ -481,6 +481,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Multi-Breaks](https://github.com/namuan/multi-breaks)
 - [Nightscout Menu Bar](https://github.com/adamd9/Nightscout-MacOS-Menu-Bar/)
 - [Paced breathing](https://apps.apple.com/us/app/paced-breathing/id1465602669?mt=12)
+- [Peeku Presence Coach](https://apps.apple.com/app/peeku-presence-coach/id6773651327?mt=12) by [Amit Patnaik](https://peeku.app) — Private Mac menu-bar coach for eye breaks, walk reminders, posture hints, and local presence signals — Free
 - [Pollution Monitor](https://apps.apple.com/us/app/pollution-monitor/id1197195842?mt=12)
 - [Posture Hero](https://apps.apple.com/us/app/posture-hero/id6463909148?mt=12)
 - [Rest for Eyes](https://apps.apple.com/us/app/rest-for-eyes/id1549439180?mt=12)
