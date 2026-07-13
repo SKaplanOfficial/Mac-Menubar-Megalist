@@ -210,7 +210,6 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Maker Goals Menubar](https://makergoals.netlify.app/)
 - [MenuBarGrid](https://apps.apple.com/us/app/menubargrid/id6738577187?mt=12)
 - [Menubar Devdocs](https://github.com/99darshan/menubar-dev-docs)
-- [MenubarCC](https://github.com/ksterx/MenubarCC) by [ksterx](https://github.com/ksterx) — Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you — Free, open source
 - [MenuScript](https://github.com/QwertyOfficial/MenuScript)
 - [MiniSim](https://www.minisim.app)
 - [MNU](https://smittytone.net/mnu/index.html)
@@ -1268,6 +1267,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### AI Agents & AI Harnesses
 
+- [MenubarCC](https://github.com/ksterx/MenubarCC) by [Kosuke Ishikawa](https://ksterx.me/) — Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you — Free, open source
 - [Notch So Good](https://github.com/deepshal99/notch-so-good) by [Deepak Maurya](https://github.com/deepshal99) — A pixel-art crab lives in your MacBook's notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support — Free, open source
 
 ### Art
