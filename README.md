@@ -475,7 +475,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Hourly Activity Alerts](https://apps.apple.com/us/app/hourly-activity-alerts/id1101342355?mt=12)
 - [Hyperfocus](https://hyperfocus.health)
 - [Intermission - Breaks For Eyes](https://apps.apple.com/us/app/intermission-breaks-for-eyes/id1439431081?mt=12)
-- [Juicy Battery Health](https://getjuicy.app)
+- [Juicy Battery Health](https://getjuicy.app) by [Dominik Sobe](https://dominiksobe.com/) — Configure custom battery level alerts, track battery health, and monitor app usage – 3-day free trial, then $14.99 one-time payment for current version or $24.99 one-time payment for lifetime updates
 - [Menu Bar Breathing](https://github.com/akaalias/menu-bar-breathing)
 - [Micro Break](https://www.bschoy.com/micro-break) by [Bschoy Laban](https://www.bschoy.com) — Avoid eye strain and fatigue with micro breaks — Free
 - [Momentum Habit Tracker](https://apps.apple.com/us/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12)
