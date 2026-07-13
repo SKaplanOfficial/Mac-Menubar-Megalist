@@ -2066,7 +2066,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Skywhale](https://apps.apple.com/us/app/skywhale-menu-bar-browser/id1609165212?mt=12)
 - [Slapdash](https://slapdash.com)
 - [Slik](https://apps.inspira.io/en/slik/)
-- [SnapHotkey](https://snaphotkey.com) — Map keyboard hotkeys directly to specific apps for instant switching. Press once to focus, press again to hide — $9.99
+- [SnapHotkey](https://snaphotkey.com) by [codecounter](https://github.com/codecounter) — Map keyboard hotkeys directly to specific apps for instant switching. Press once to focus, press again to hide — Free tier with limited features, full version for $9.99 one-time payment after 15-day free trial
 - [SomLauncher](https://www.somapplication.com/launcher) by [Magnus von Scheele](https://github.com/magnusvs) — Launch all your workflows in one click — Free, open source
 - [start](https://apps.apple.com/us/app/start/id1329701389?mt=12)
 - [Switcheroo](https://apps.apple.com/us/app/switcheroo-fast-app-switcher/id1198084875?mt=12)
