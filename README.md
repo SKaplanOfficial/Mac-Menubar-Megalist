@@ -236,6 +236,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Sprinkles](https://apps.apple.com/us/app/sprinkles-mod-the-web/id1500209074?mt=12) by [Mikkel Malmberg](https://mikkelmalmberg.com) — Modify the web with custom CSS and JS — Free
 - [Streaker](https://github.com/jamieweavis/streaker)
 - [Symbar](https://apps.apple.com/us/app/symbar/id1577268085?mt=12)
+- [Tintpad](https://github.com/sorkila/tintpad) by [Erik Nielsen](https://sorkila.com) — Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running — Free, open source
 - [Virtualbox Menulet](https://github.com/cviebrock/VirtualBox-Menulet)
 - [whale](https://github.com/ruggi/whale)
 - [Which Docker](https://github.com/gschrader/which-docker)
@@ -287,6 +288,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Quests](https://apps.apple.com/us/app/quests/id1447415753?mt=12)
 - [Remmi](https://github.com/phoqe/Remmi)
 - [Source Notify](https://apps.apple.com/us/app/source-notify/id1570433591?mt=12)
+- [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) by [Alexander Malakhov](https://github.com/jazzyalex) — Track public GitHub repo stars and release downloads from the menu bar — Free, open source
 - [streak-bar](https://apps.apple.com/us/app/streak-bar/id6464448808?mt=12)
 - [Suzy](https://github.com/adlk/Suzy)
 - [Trailer](https://ptsochantaris.github.io/trailer/)
@@ -476,6 +478,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Hourly Activity Alerts](https://apps.apple.com/us/app/hourly-activity-alerts/id1101342355?mt=12)
 - [Hyperfocus](https://hyperfocus.health)
 - [Intermission - Breaks For Eyes](https://apps.apple.com/us/app/intermission-breaks-for-eyes/id1439431081?mt=12)
+- [Juicy Battery Health](https://getjuicy.app) by [Dominik Sobe](https://dominiksobe.com/) — Configure custom battery level alerts, track battery health, and monitor app usage – 3-day free trial, then $14.99 one-time payment for current version or $24.99 one-time payment for lifetime updates
 - [Menu Bar Breathing](https://github.com/akaalias/menu-bar-breathing)
 - [Micro Break](https://www.bschoy.com/micro-break) by [Bschoy Laban](https://www.bschoy.com) — Avoid eye strain and fatigue with micro breaks — Free
 - [Momentum Habit Tracker](https://apps.apple.com/us/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12)
@@ -1206,6 +1209,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ## Utilities
 
+- [RenderFocus](https://celalbasaran.com/renderfocus/) by [Celal Başaran](https://celalbasaran.com/) — CPU scheduling utility that optimizes task distribution between P-Cores and E-Cores — 14-day free trial, then $2.49/month or $24.99 one-time purchase
 - [Almighty - Powerful Tweaks](https://apps.apple.com/us/app/almighty-powerful-tweaks/id1576440429?mt=12)
 - [Badgeify](https://badgeify.app)
 - [Clapet](https://github.com/mbenoukaiss/clapet)
@@ -1261,6 +1265,10 @@ If you find that an app is missing, that any of the links are broken, or that th
 #### AI API Usage
 
 - [Peek](https://mattspear.gumroad.com/l/peekapp)
+
+#### AI Agents & AI Harnesses
+
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) by [Deepak Maurya](https://github.com/deepshal99) — A pixel-art crab lives in your MacBook's notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support — Free, open source
 
 ### Art
 
@@ -1787,6 +1795,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [BridgeBlock](https://gitlab.com/andrew_vanderbilt/bridgeblock)
 - [Enpass](https://www.enpass.io)
+- [Lockpaw](https://github.com/sorkila/lockpaw) by [Erik Nielsen](https://sorkila.com/) — Lock your Mac without putting it to sleep — Free, open source (MIT License)
 - [OneTimeCopy](https://github.com/adama11/OneTimeCopy)
 - [Security Growler](https://github.com/pirate/security-growler)
 - [swiftGuard](https://github.com/Lennolium/swiftGuard)
