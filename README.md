@@ -235,6 +235,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Sprinkles](https://apps.apple.com/us/app/sprinkles-mod-the-web/id1500209074?mt=12) by [Mikkel Malmberg](https://mikkelmalmberg.com) — Modify the web with custom CSS and JS — Free
 - [Streaker](https://github.com/jamieweavis/streaker)
 - [Symbar](https://apps.apple.com/us/app/symbar/id1577268085?mt=12)
+- [Tintpad](https://github.com/sorkila/tintpad) by [Erik Nielsen](https://sorkila.com) — Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running — Free, open source
 - [Virtualbox Menulet](https://github.com/cviebrock/VirtualBox-Menulet)
 - [whale](https://github.com/ruggi/whale)
 - [Which Docker](https://github.com/gschrader/which-docker)
