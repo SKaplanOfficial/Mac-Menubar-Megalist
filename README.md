@@ -286,7 +286,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Quests](https://apps.apple.com/us/app/quests/id1447415753?mt=12)
 - [Remmi](https://github.com/phoqe/Remmi)
 - [Source Notify](https://apps.apple.com/us/app/source-notify/id1570433591?mt=12)
-- [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) — Track public GitHub repo stars and release downloads from the menu bar — Free, open source
+- [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) by [Alexander Malakhov](https://github.com/jazzyalex) — Track public GitHub repo stars and release downloads from the menu bar — Free, open source
 - [streak-bar](https://apps.apple.com/us/app/streak-bar/id6464448808?mt=12)
 - [Suzy](https://github.com/adlk/Suzy)
 - [Trailer](https://ptsochantaris.github.io/trailer/)
