@@ -1262,6 +1262,10 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Peek](https://mattspear.gumroad.com/l/peekapp)
 
+#### AI Agents & AI Harnesses
+
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) by [Deepak Maurya](https://github.com/deepshal99) — A pixel-art crab lives in your MacBook's notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support — Free, open source
+
 ### Art
 
 - [Freehand](https://github.com/wddwycc/Freehand)
