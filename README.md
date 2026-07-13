@@ -1267,6 +1267,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### AI Agents & AI Harnesses
 
+- [MenubarCC](https://github.com/ksterx/MenubarCC) by [Kosuke Ishikawa](https://ksterx.me/) — Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you — Free, open source
 - [Notch So Good](https://github.com/deepshal99/notch-so-good) by [Deepak Maurya](https://github.com/deepshal99) — A pixel-art crab lives in your MacBook's notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support — Free, open source
 
 ### Art
