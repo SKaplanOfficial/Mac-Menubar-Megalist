@@ -1792,6 +1792,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [BridgeBlock](https://gitlab.com/andrew_vanderbilt/bridgeblock)
 - [Enpass](https://www.enpass.io)
+- [Lockpaw](https://github.com/sorkila/lockpaw) by [Erik Nielsen](https://sorkila.com/) — Lock your Mac without putting it to sleep — Free, open source (MIT License)
 - [OneTimeCopy](https://github.com/adama11/OneTimeCopy)
 - [Security Growler](https://github.com/pirate/security-growler)
 - [swiftGuard](https://github.com/Lennolium/swiftGuard)
