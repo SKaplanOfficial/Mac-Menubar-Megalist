@@ -534,6 +534,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Slack Status Bar](https://github.com/ericwb/slack-status-bar/)
 - [Slack Status Icon](https://github.com/strayge/slack_status_icon)
 - [Slapp](https://github.com/shersch/slapp)
+- [TypeCue](https://typecue.app) by [Alex Polonsky](https://alexpolonsky.com) — Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace — Free, open source
 - [Workday](https://github.com/becurrie/workday)
 
 ### Activity Tracking
