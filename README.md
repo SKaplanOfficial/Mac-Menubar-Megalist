@@ -528,6 +528,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Brandy](https://getbrandy.io)
 - [Droplr](https://apps.apple.com/us/app/droplr/id498672703?mt=12)
 - [Funter](https://nektony.com/funter)
+- [Mac Excel Shortcuts](https://maccove.com)
 - [Monitro](https://apps.apple.com/us/app/monitro/id1438864470?mt=12)
 - [Pliim](https://pliim.app)
 - [Slack DND](https://github.com/furkanpehli1/Slack-DND)
