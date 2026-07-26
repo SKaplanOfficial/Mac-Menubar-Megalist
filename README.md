@@ -1962,8 +1962,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [InsomniaX](https://insomniax.en.softonic.com/mac)
 - [Jiggler](http://www.sticksoftware.com/software/Jiggler.html)
 - [KeepingYouAwake](https://keepingyouawake.app)
+- [McAwake](https://github.com/taufiqxr/McAwake) by [taufiqxr](https://github.com/taufiqxr) — Keep your Mac awake even with the lid closed, no external display needed — Free, open source
 - [NeSleep](https://vishalroygeek.gumroad.com/l/nesleep)
-- [NightOwl](https://github.com/taufiqxr/NightOwl) by [taufiqxr](https://github.com/taufiqxr) — Keep your Mac awake even with the lid closed, no external display needed — Free, open source
 - [NoSleep](https://github.com/integralpro/nosleep)
 - [Owly](https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12)
 - [RocketFuel](https://github.com/pkrll/RocketFuel)
