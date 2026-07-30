@@ -159,6 +159,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Dyet](https://inchman.gumroad.com/l/Dyet) by [INCHMAN](https://asiafu.com/)
 - [EyeSpy Mouse Eyes](https://apps.apple.com/us/app/eyespy-mouse-eyes/id6504020324?mt=12) by [Ori Roniger](https://roniger.co.il)
 - [Fairy Lights](https://github.com/chippokiddo/fairylights)
+- [Stir](https://apps.apple.com/us/app/stir-wake-up-experience/id6761769404)
 - [Googly Eyes](https://sindresorhus.com/googly-eyes#non-app-store-version) by [Sindre Sorhus](https://sindresorhus.com)
 - [Last thing](https://github.com/davideagostini/last_thing) by [Davide Agostini](https://github.com/davideagostini)
 - [Lickable Menu Bar](https://apps.apple.com/us/app/lickable-menu-bar/id6444217677?mt=12) by [Honghao Zhang](https://github.com/honghaoz)
