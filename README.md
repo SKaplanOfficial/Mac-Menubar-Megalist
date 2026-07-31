@@ -2284,6 +2284,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Spectacle](https://www.spectacleapp.com)
 - [Swish](https://highlyopinionated.co/swish/)
 - [Tiles](https://www.sempliva.com/tiles/) by [Sempliva](https://www.sempliva.com)
+- [Waindow](https://waindow.app) by [indiveloper](https://github.com/indiveloper) — Window layouts, linked resizing, window-specific notes, long-page capture, Blackout Mode, and Keep Awake — Free
 - [Warp](https://mkchoi212.gumroad.com/l/qjkjf)
 - [Window Collage](https://www.minicreo.com/window-collage/)
 - [WindowKeys](https://www.apptorium.com/windowkeys)
