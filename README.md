@@ -1761,6 +1761,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Networking / IT
 
+- [Holeberry](https://github.com/pedrovieira/Holeberry) by [Pedro Vieira](https://pedrovieira.me/) — Monitor and control your Pi-hole instances from the menu bar — Free, open source
 - [IPInfo](https://github.com/bentettmar/ipinfo)
 - [IPMenu](https://github.com/disrvptor/IPMenu)
 - [Network Interface Menubar](https://github.com/g-k/network-interface-menubar)
