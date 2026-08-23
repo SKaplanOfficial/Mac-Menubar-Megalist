@@ -1997,6 +1997,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Market Countdown](https://apps.apple.com/us/app/market-countdown/id1668967522?mt=12)
 - [Quick Commodities](https://apps.apple.com/us/app/quick-commodities/id1074532887)
 - [Pricebar](https://apps.apple.com/us/app/pricebar-track-market-prices/id6464116298?mt=12)
+- [Pulse](https://www.pulseticker.app/) by [fatwang2](https://github.com/fatwang2) — Native menu bar market tracker for US, HK and A-share stocks, crypto, indices, ETFs and portfolio P&L — Free, open source
 - [RH-Ticker](https://github.com/peniqliotuv/robinhood-ticker)
 - [SPicker](https://apps.apple.com/us/app/spicker/id1639548770?mt=12)
 - [StockBar](https://github.com/fhl43211/StockBar)
