@@ -1577,7 +1577,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [iScreen Shoter](https://apps.apple.com/us/app/iscreen-shoter-screenshot-app/id1596559494?mt=12)
 - [iShot](https://apps.apple.com/us/app/ishot-screenshot-recording-ocr/id1485844094?mt=12)
 - [Kap](https://github.com/wulkano/kap)
-- [Keyty](https://keyty.app/) — Keyboard and mouse input visualizer for demos, recordings, livestreams, and teaching — Free, open source
+- [Keyty](https://keyty.app/) by [Serhii Bykov](https://esphynox.me/) — Keyboard and mouse input visualizer for demos, recordings, livestreams, and teaching — Free, open source (BSD 3-Clause License)
 - [LinRecord](https://apps.apple.com/us/app/linrecord-screen-recorder/id1511249774?mt=12)
 - [Menu Snappr II](https://widgetworx.com/apps/menu_snappr.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Effortless screen capture directly from the menu bar — Free
 - [Monosnap](https://monosnap.com/welcome)
