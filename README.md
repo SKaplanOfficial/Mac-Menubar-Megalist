@@ -160,6 +160,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [EyeSpy Mouse Eyes](https://apps.apple.com/us/app/eyespy-mouse-eyes/id6504020324?mt=12) by [Ori Roniger](https://roniger.co.il)
 - [Fairy Lights](https://github.com/chippokiddo/fairylights)
 - [GlowLight](https://apps.apple.com/us/app/glowlight-ambient-light-bar/id6756016258?mt=12) by [Kolee](https://kolee.kr) — An ambient light bar at the top edge of your screen — Free tier with 3 themes + 2 waveform styles, $2.99 one-time payment for premium bundle (additional 6 themes + 9 waveform styles)
+- [Stir](https://apps.apple.com/us/app/stir-wake-up-experience/id6761769404) by [Kolee](https://kolee.kr) — Displays a greeting when your screen wakes — Free tier with 4 themes, $4.99 one-time payment for 19 additional themes
 - [Googly Eyes](https://sindresorhus.com/googly-eyes#non-app-store-version) by [Sindre Sorhus](https://sindresorhus.com)
 - [Last thing](https://github.com/davideagostini/last_thing) by [Davide Agostini](https://github.com/davideagostini)
 - [Lickable Menu Bar](https://apps.apple.com/us/app/lickable-menu-bar/id6444217677?mt=12) by [Honghao Zhang](https://github.com/honghaoz)
@@ -535,6 +536,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Slack Status Bar](https://github.com/ericwb/slack-status-bar/)
 - [Slack Status Icon](https://github.com/strayge/slack_status_icon)
 - [Slapp](https://github.com/shersch/slapp)
+- [TypeCue](https://typecue.app) by [Alex Polonsky](https://alexpolonsky.com) — Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace — Free, open source
 - [Workday](https://github.com/becurrie/workday)
 
 ### Activity Tracking
@@ -1269,6 +1271,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### AI Agents & AI Harnesses
 
+- [Actvt](https://actvt.io) by [Oye Collective](https://oyecollective.com) — Monitors your Mac and the AI coding agents on it, with searchable Claude Code and Codex session history, cost and token analytics, and an embedded MCP server — Free tier, then $9.99 one-time or $7.99/mo billed annually
 - [MenubarCC](https://github.com/ksterx/MenubarCC) by [Kosuke Ishikawa](https://ksterx.me/) — Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you — Free, open source
 - [Notch So Good](https://github.com/deepshal99/notch-so-good) by [Deepak Maurya](https://github.com/deepshal99) — A pixel-art crab lives in your MacBook's notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support — Free, open source
 
@@ -1578,6 +1581,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [iScreen Shoter](https://apps.apple.com/us/app/iscreen-shoter-screenshot-app/id1596559494?mt=12)
 - [iShot](https://apps.apple.com/us/app/ishot-screenshot-recording-ocr/id1485844094?mt=12)
 - [Kap](https://github.com/wulkano/kap)
+- [Keyty](https://keyty.app/) by [Serhii Bykov](https://esphynox.me/) — Keyboard and mouse input visualizer for demos, recordings, livestreams, and teaching — Free, open source (BSD 3-Clause License)
 - [LinRecord](https://apps.apple.com/us/app/linrecord-screen-recorder/id1511249774?mt=12)
 - [Menu Snappr II](https://widgetworx.com/apps/menu_snappr.html) by [Ari Feldman](https://www.widgetworx.com/about/) — Effortless screen capture directly from the menu bar — Free
 - [Monosnap](https://monosnap.com/welcome)
@@ -1702,6 +1706,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12)
 - [LeaderKey](https://github.com/mikker/LeaderKey.app) by [Mikkel Malmber](https://mikkelmalmberg.com/) — The *faster than your launcher* launcher — Free, open source
+- [Mac Excel Shortcuts](https://maccove.com) by [Xquantum](https://www.xquantum.in/) / [Swagat Sarma](https://x.com/swagatsarma) — Makes Windows-style Excel keyboard shortcuts work on Mac — Free trial for 7 days, then $4.99/month or $49.00 one-time payment
 
 ### Lists/Collections/Read-It-Later
 
@@ -1761,6 +1766,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Networking / IT
 
+- [Holeberry](https://github.com/pedrovieira/Holeberry) by [Pedro Vieira](https://pedrovieira.me/) — Monitor and control your Pi-hole instances from the menu bar — Free, open source
 - [IPInfo](https://github.com/bentettmar/ipinfo)
 - [IPMenu](https://github.com/disrvptor/IPMenu)
 - [Network Interface Menubar](https://github.com/g-k/network-interface-menubar)
@@ -1963,6 +1969,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [InsomniaX](https://insomniax.en.softonic.com/mac)
 - [Jiggler](http://www.sticksoftware.com/software/Jiggler.html)
 - [KeepingYouAwake](https://keepingyouawake.app)
+- [McAwake](https://github.com/taufiqxr/McAwake) by [taufiqxr](https://github.com/taufiqxr) — Keep your Mac awake even with the lid closed, no external display needed — Free, open source
 - [NeSleep](https://vishalroygeek.gumroad.com/l/nesleep)
 - [NoSleep](https://github.com/integralpro/nosleep)
 - [Owly](https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12)
@@ -1997,6 +2004,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Market Countdown](https://apps.apple.com/us/app/market-countdown/id1668967522?mt=12)
 - [Quick Commodities](https://apps.apple.com/us/app/quick-commodities/id1074532887)
 - [Pricebar](https://apps.apple.com/us/app/pricebar-track-market-prices/id6464116298?mt=12)
+- [Pulse](https://www.pulseticker.app/) by [fatwang2](https://github.com/fatwang2) — Native menu bar market tracker for US, HK and A-share stocks, crypto, indices, ETFs and portfolio P&L — Free, open source
 - [RH-Ticker](https://github.com/peniqliotuv/robinhood-ticker)
 - [SPicker](https://apps.apple.com/us/app/spicker/id1639548770?mt=12)
 - [StockBar](https://github.com/fhl43211/StockBar)
@@ -2133,6 +2141,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### Speech
 
+- [AI Dictation](https://aidictation.com) by [Writingmate](https://github.com/writingmate) — Voice-to-text from the menu bar with offline recognition on supported devices and optional cloud transcription and cleanup — Free tier, MIT-licensed native client source
 - [AudioBuddy](https://zeitalabs.gumroad.com/l/audiobuddy)
 - [QuickSpeak](https://apps.apple.com/us/app/quickspeak-text-to-speech/id1669506658?mt=12)
 
@@ -2285,6 +2294,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Spectacle](https://www.spectacleapp.com)
 - [Swish](https://highlyopinionated.co/swish/)
 - [Tiles](https://www.sempliva.com/tiles/) by [Sempliva](https://www.sempliva.com)
+- [Waindow](https://waindow.app) by [indiveloper](https://github.com/indiveloper) — Window layouts, linked resizing, window-specific notes, long-page capture, Blackout Mode, and Keep Awake — Free
 - [Warp](https://mkchoi212.gumroad.com/l/qjkjf)
 - [Window Collage](https://www.minicreo.com/window-collage/)
 - [WindowKeys](https://www.apptorium.com/windowkeys)
