@@ -1237,7 +1237,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 ### AI
 
 - [AI Chat](https://www.chatbar.top)
-- [AI Subscription Usage](https://github.com/billwonghk/ai-subscription-usage) — Compares your ChatGPT/Claude/Gemini/Grok subscription cost against real API-equivalent value, from local usage logs — Free, open source
+- [AI Subscription Usage](https://github.com/billwonghk/ai-subscription-usage) by [billwonghk](https://github.com/billwonghk) — Compares ChatGPT/Claude/Gemini/Grok subscription cost against API-equivalent value, based on local usage logs — Free, open source (PolyForm Noncommercial License)
 - [Apple AI](https://bunnysayzz.github.io/AppleAI/) by [Md Azharuddin](https://imazhar.vercel.app) — A unified interface for multiple AI assistants — Free, open source
 - [ChatGPT](https://github.com/vincelwt/chatgpt-mac)
 - [ChatGPT Client](https://github.com/pseudocoder-in/ChatGPT)
