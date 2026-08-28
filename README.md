@@ -528,7 +528,6 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Brandy](https://getbrandy.io)
 - [Droplr](https://apps.apple.com/us/app/droplr/id498672703?mt=12)
 - [Funter](https://nektony.com/funter)
-- [Mac Excel Shortcuts](https://maccove.com)
 - [Monitro](https://apps.apple.com/us/app/monitro/id1438864470?mt=12)
 - [Pliim](https://pliim.app)
 - [Slack DND](https://github.com/furkanpehli1/Slack-DND)
@@ -1702,6 +1701,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12)
 - [LeaderKey](https://github.com/mikker/LeaderKey.app) by [Mikkel Malmber](https://mikkelmalmberg.com/) — The *faster than your launcher* launcher — Free, open source
+- [Mac Excel Shortcuts](https://maccove.com) by [Xquantum](https://www.xquantum.in/) / [Swagat Sarma](https://x.com/swagatsarma) — Makes Windows-style Excel keyboard shortcuts work on Mac — Free trial for 7 days, then $4.99/month or $49.00 one-time payment
 
 ### Lists/Collections/Read-It-Later
 
