@@ -511,6 +511,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Barbell](https://github.com/agencyenterprise/barbell)
 - [Dev 10](https://github.com/sarthology/Dev10)
+- [FeedsBar](https://feeds.bar) — always-on desktop news ticker with curated sources, controlled from its menu bar item — Paid
 - [Mackernews](https://mburakerman.github.io/mackernews/) by [Mehmet Burak Erman](https://mburakerman.github.io) — Hacker News in the menu bar — Free, open source
 - [Readify](https://apps.apple.com/us/app/readify/id1513518320?mt=12)
 - [RSS Ticker](https://apps.apple.com/us/app/rss-ticker-news-feed/id6737011935?mt=12) by [Zuri Apps](https://zuriapps.com/)
