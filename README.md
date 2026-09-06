@@ -259,7 +259,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Quick Copy](https://apps.apple.com/us/app/quick-copy-searchable-snippets/id1456519049?mt=12)
 - [snippets](https://github.com/adeebshihadeh/snippets)
 - [Snippets Library](https://apps.apple.com/us/app/snippets-library/id1585687204?mt=12)
-- [SnipperApp 2](https://apps.apple.com/us/app/snipperapp-2/id1469182443?mt=12)
+- [SnipperApp 3](https://snipperapp.com)
 - [SourceDrop](https://apps.apple.com/us/app/sourcedrop/id520820413?mt=12)
 
 ### Git & GitHub
