@@ -1373,6 +1373,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [TrackerStripper](https://github.com/itszero/TrackerStripper)
 - [uCopy](https://github.com/FaiChou/uCopy)
 - [uPaste](https://apps.apple.com/us/app/upaste-clipboard-manager/id1503649026?mt=12)
+- [Whisk](https://github.com/nathan-poncet/whisk)
 - [Xclip](https://apps.apple.com/us/app/xclip/id1623411951?mt=12)
 - [XCopy](https://apps.apple.com/us/app/xcopy-clipboard-manager/id1618581008?mt=12)
 - [Yippy](https://yippy.mattdavo.com)
