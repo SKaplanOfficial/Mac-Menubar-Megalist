@@ -359,6 +359,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [MusicBar](https://github.com/russelg/musicbar/)
 - [Music Bar](https://musa11971.github.io/Music-Bar/)
 - [MusicBuddy](https://apps.apple.com/us/app/musicbuddy/id563706976?mt=12)
+- [Mooziac](https://github.com/shirkeharsh/mooziac) by [Harsh Shirke](https://github.com/shirkeharsh) — Native Swift menu bar YouTube Music player with trackpad edge volume gestures & synced lyrics — Free, open source
 - [NepTunes](https://micropixels.software/apps/neptunes)
 - [NowPlayingMenuBar](https://github.com/TrevorBurnham/NowPlayingMenuBar)
 - [NowSpot](https://github.com/saivittalb/nowspot)
