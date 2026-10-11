@@ -1233,6 +1233,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [PinFrame](https://unboxing.fun/apps/pinframe)
 - [Presentation Mode](https://github.com/Kah00ted/Presentation-Mode)
 - [Quitter](https://github.com/Aayush9029/Quitter) - Deleted Repository
+- [Tap2Click](https://tap2click.me) by [Tourist.com](https://tourist.com) — Tap-to-click for the Magic Mouse: a light touch is a click, two fingers is a right-click — Free, open source
 - [WhyFi](https://github.com/OzTamir/WhyFi/)
 - [Zoom Mute Status](https://github.com/abersager/zoom-mute-status)
 
