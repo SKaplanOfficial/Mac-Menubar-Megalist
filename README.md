@@ -220,6 +220,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Netlify Deploy Status](https://apps.apple.com/us/app/netlify-deploy-status/id6736578147?mt=12) by [Clement Rousseau](https://clemstation.com)
 - [Netlok](https://github.com/ea/netlok)
 - [NeuroX](https://github.com/rebryk/neurox)
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) by [Amir Teymoori](https://github.com/ateymoori) — Control panel for the Android Emulator and adb devices: dark mode, font scale, RTL, TalkBack, plus an MCP server — Free, open source
 - [OpenPorts](https://openports.app)
 - [PiBar](https://github.com/amiantos/pibar)
 - [Port Manager](https://jim1es.gumroad.com/l/xTJlY)
