@@ -2133,6 +2133,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Spelling Alphabet](https://www.tunabellysoftware.com/spelling_alphabet/)
 - [SymbolScribe](https://github.com/jaywcjlove/symbol-scribe) by [jaywcjlove (小弟调调)](https://wangchujiang.com) — Quickly copy and paste symbols, emoji, kaomoji, and more — Free
 - [TextSoap Menu](https://apps.apple.com/us/app/textsoap-menu/id525517698?mt=12)
+- [Tilqos](https://elapen.github.io/tilqos/) by [elapen](https://github.com/elapen) — Fixes text typed in the wrong keyboard layout and switches the layout (English, Russian, Kazakh) — Free, open source (MIT)
 - [Tiny Ipsum](https://apps.apple.com/us/app/tiny-ipsum/id1445179392?mt=12)
 - [Tooth Paste](https://apps.apple.com/us/app/tooth-paste/id1134161004?mt=12)
 - [Type Tips](https://apps.apple.com/us/app/type-tips/id1330269049?mt=12)
