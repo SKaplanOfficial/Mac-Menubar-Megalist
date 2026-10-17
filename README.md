@@ -1236,6 +1236,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [WhyFi](https://github.com/OzTamir/WhyFi/)
 - [Zoom Mute Status](https://github.com/abersager/zoom-mute-status)
 
+- [DisplayPilot](https://huayanming.github.io/displaypilot/?src=megalist) by [yanming hua](https://huayanming.github.io/displaypilot/)
+
 ### AI
 
 - [AI Chat](https://www.chatbar.top)
