@@ -1273,6 +1273,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 #### AI Agents & AI Harnesses
 
 - [Actvt](https://actvt.io) by [Oye Collective](https://oyecollective.com) — Monitors your Mac and the AI coding agents on it, with searchable Claude Code and Codex session history, cost and token analytics, and an embedded MCP server — Free tier, then $9.99 one-time or $7.99/mo billed annually
+- [Brow](https://github.com/efim0v/brow) by [Artem Efimov](https://github.com/efim0v) — Shows the 5-hour and weekly limits of every Claude Code account in the MacBook notch, and when each resets; Workspaces, in the menu bar, gives each feature a git worktree of every repository you pick, all on one branch, for parallel Claude Code sessions — Free, open source (GPL-3.0 License)
 - [MenubarCC](https://github.com/ksterx/MenubarCC) by [Kosuke Ishikawa](https://ksterx.me/) — Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you — Free, open source
 - [Notch So Good](https://github.com/deepshal99/notch-so-good) by [Deepak Maurya](https://github.com/deepshal99) — A pixel-art crab lives in your MacBook's notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support — Free, open source
 
