@@ -2145,6 +2145,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [AI Dictation](https://aidictation.com) by [Writingmate](https://github.com/writingmate) — Voice-to-text from the menu bar with offline recognition on supported devices and optional cloud transcription and cleanup — Free tier, MIT-licensed native client source
 - [AudioBuddy](https://zeitalabs.gumroad.com/l/audiobuddy)
 - [QuickSpeak](https://apps.apple.com/us/app/quickspeak-text-to-speech/id1669506658?mt=12)
+- [Yap](https://yapapp.cc) - Voice dictation from the menu bar that types into any app, with speech recognized on the Mac. Paid after a free trial.
 
 #### Translation
 
