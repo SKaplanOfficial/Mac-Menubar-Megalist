@@ -491,6 +491,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Posture Hero](https://apps.apple.com/us/app/posture-hero/id6463909148?mt=12)
 - [Rest for Eyes](https://apps.apple.com/us/app/rest-for-eyes/id1549439180?mt=12)
 - [Simon Say - Activity Reminder](https://apps.apple.com/us/app/simon-says-activity-reminder/id1160131071?mt=12)
+- [Sixty](https://leplik.github.io/sixty/) by [Aliaksei Smirnou](https://github.com/leplik) — Locks every screen for a 60-second stand-up break each hour, with no Skip button, and never during a call — Free and open source
 - [Stand](https://getstandapp.com/)
 - [Stando](https://apps.apple.com/us/app/stando-sit-stand-reminders/id6455303729?mt=12)
 - [StandUp](https://apps.apple.com/us/app/standup/id1439378680?mt=12)
