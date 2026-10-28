@@ -631,6 +631,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [TinyDateTime](https://andreasfertig.com/apps/tinydatetime/)
 - [Tiny Moon](https://apps.apple.com/us/app/tiny-moon/id6502374344?mt=12)
 - [Today](https://sindresorhus.com/today)
+- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool)
 - [Up Next](https://apps.apple.com/us/app/up-next/id1355117041?mt=12)
 - [Week Number](https://apps.apple.com/us/app/week-number/id6502579523?mt=12)
 - [WeeNu](https://github.com/mullweisser/mac-weenu)
