@@ -1572,6 +1572,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Capster](https://macmenubar.com/capster/)
 - [Capture Screen Lite](https://apps.apple.com/us/app/capture-screen-lite/id617602554?mt=12)
 - [CloudApp](https://www.getcloudapp.com)
+- [Conjuly](https://conjuly.com) by [Deschutech](https://deschutech.com) — Share or record chosen regions of any monitor in one clean window, or send them into calls as a virtual camera — Free tier, one-time payment for Pro ($4.99 direct, $6.99 on the Mac App Store)
 - [DreamShot](https://apps.apple.com/us/app/dreamshot-screenshot-shortcut/id689844304?mt=12)
 - [Easy Screen Recorder](https://apps.apple.com/us/app/easy-screen-recorder/id1480152694?mt=12)
 - [Filmage Screen](https://apps.apple.com/us/app/filmage-screen-screen-recorder/id1475049179?mt=12)
