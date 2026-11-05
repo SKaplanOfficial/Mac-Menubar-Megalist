@@ -1837,6 +1837,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Balance Lock](https://www.tunabellysoftware.com/balance_lock/)
 - [Battery Charge Limiter](https://github.com/actuallymentor/battery)
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+- [BetterPad](https://novasynapse.com/products/betterpad/) — Separate scroll direction for mouse and trackpad, smooth scrolling, and multi-finger trackpad gestures — Free tier with independent scroll direction & 3 gestures, $6.99 one-time payment for Pro
 - [Bluesnooze](https://github.com/odlp/bluesnooze/)
 - [Bluetooth Mic Switch](https://dunelly.github.io/Bluetooth-Mic-Switch/) by [dunelly](https://github.com/dunelly) — Fix audio issues by auto-switching to your internal mic when Bluetooth connects — Free, open source
 - [Boo](https://github.com/dimovskidamjan/Boo)
