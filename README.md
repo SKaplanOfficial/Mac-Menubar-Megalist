@@ -1849,6 +1849,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [DarkSome](https://blog.kruyt.org/darksome/)
 - [Desaturate](https://github.com/seenaburns/Desaturate)
 - [DesktopUtility](https://sweetpproductions.com)
+- [Dimmerly](https://dimmerly.olujic.in.rs/) by [olujicz](https://github.com/olujicz) — Per-display brightness, warmth, and contrast with presets, schedules, and DDC/CI monitor control — Free, open source
 - [Display Rotation Menu](https://www.magesw.com/displayrotation/)
 - [Displays](https://www.jibapps.com/apps/displays/)
 - [DND Me](https://runtimesharks.com/projects/dnd-me)
