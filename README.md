@@ -728,6 +728,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Productivity Aides
 
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) by [Yvsleyen00941](https://github.com/Yvsleyen00941) — Native macOS menu bar productivity HUD with calendar, timer, and notes — Free, open source
 - [Focus](https://heyfocus.com)
 - [FocusBar](https://apps.apple.com/us/app/focusbar/id443439127?mt=12)
 - [Heads Down](https://github.com/EconoBen/headsdown)
