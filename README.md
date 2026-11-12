@@ -2234,7 +2234,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [macvpnwatcher](https://github.com/ocordes/macvpnwatcher)
 - [Tunnelblick](https://tunnelblick.net)
-- [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) by [Sergio Fernández](https://github.com/GeiserX) — Routes chosen services and domains around your VPN, or sends only those through it — Free, open source (GPL-3.0 License)
+- [VPN Bypass](https://geiserx.github.io/VPN-Bypass/) by [Sergio Fernández](https://geiser.cloud/) — Routes chosen services and domains around your VPN, or sends only those through it — Free, [open source](https://github.com/GeiserX/VPN-Bypass) (GPL-3.0 License)
 - [VPN Handler](https://github.com/tsarenkotxt/vpn-handler/)
 
 ### Weather
