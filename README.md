@@ -2017,6 +2017,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Stock Ticker](https://apps.apple.com/us/app/stock-ticker/id1502923895?mt=12)
 - [StockTrackr](https://apps.apple.com/us/app/stocktrackr/id1457916567?mt=12)
 - [StonksBar](https://apps.apple.com/us/app/stonksbar/id6670620027?mt=12)
+- [Tape](https://github.com/Yvsleyen00941/Tape) by [Yvsleyen00941](https://github.com/Yvsleyen00941) — Native macOS ticker for stocks and crypto, living in the corner beside the Dock — Free, open source
 - [TickBar](https://apps.apple.com/us/app/tickbar/id1666870677?mt=12)
 - [Uptick](https://apps.apple.com/us/app/uptick-stock-ticker/id1513828695?mt=12)
 
