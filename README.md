@@ -1927,7 +1927,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Sound Control](https://staticz.com/soundcontrol/)
 - [Spaceman](https://www.jaysce.dev/projects/spaceman)
 - [Spaces Renamer](https://github.com/dado3212/spaces-renamer)
-- [Sundown](https://trysundown.com/) — Warm and dim the display, with color temperature from 6500K down to 500K — 7-day free trial, then $4.99/month, $39/year or $79 one-time
+- [Sundown](https://trysundown.com/) by [Jack Richards](https://github.com/KingJackWins) — Warm and dim the display, with color temperature from 6500K down to 500K — 7-day free trial, then $4.99/month, $39/year or $79 one-time payment
 - [SwitchManager](https://www.doyourdata.com/mac-manager/switch-manager.html)
 - [Toggled](https://github.com/joeyscarim/toggled)
 - [Toggle Monitors](https://apps.apple.com/us/app/toggle-monitors/id1517884579?mt=12)
