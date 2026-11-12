@@ -1049,7 +1049,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [DiskView](https://apps.apple.com/us/app/diskview/id6627346631?mt=12) by [Matej Dorcak](https://github.com/Mattijah) — Lists free and used storage of all mounted drives — Free
 - [Display connected Wifi name](https://apps.apple.com/us/app/display-connected-wifi-name/id1526918434?mt=12)
 - [DownTime](https://github.com/JonahU/DownTime)
-- [Dusty](https://github.com/yagcioglutoprak/dusty) by [Toprak Yağcıoğlu](https://github.com/yagcioglutoprak)
+- [Dusty](https://github.com/yagcioglutoprak/dusty) by [Toprak Yağcıoğlu](https://toprak.sh/) — Free alternative to CleanMyMac that lives in your menu bar — Free, open source (MIT License)
 - [Easy Ethernet Icon](https://github.com/felixblome/easy-ethernet-icon) by [Felix Blome](https://github.com/felixblome)
 - [Empty Storage](https://apps.apple.com/us/app/empty-storage/id6446431862?mt=12)
 - [Energiza](https://apps.apple.com/us/app/energiza/id1643751440?mt=12)
