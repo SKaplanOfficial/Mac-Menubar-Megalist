@@ -1279,7 +1279,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Actvt](https://actvt.io) by [Oye Collective](https://oyecollective.com) — Monitors your Mac and the AI coding agents on it, with searchable Claude Code and Codex session history, cost and token analytics, and an embedded MCP server — Free tier, then $9.99 one-time or $7.99/mo billed annually
 - [MenubarCC](https://github.com/ksterx/MenubarCC) by [Kosuke Ishikawa](https://ksterx.me/) — Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you — Free, open source
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) by [Deepak Maurya](https://github.com/deepshal99) — A pixel-art crab lives in your MacBook's notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support — Free, open source
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) by [Deepak Maurya](https://github.com/deepshal99) — Peek, a tiny 3D character, lives in your MacBook's notch and watches Claude Code and Codex, with approvals, replies and usage limits right in the notch — Free, open source
 
 ### Art
 
