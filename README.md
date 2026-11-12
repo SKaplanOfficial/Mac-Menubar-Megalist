@@ -2288,6 +2288,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize)
 - [Later](https://getlater.app)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) by [tumingke0](https://github.com/tumingke0) — Restores window positions and Spaces when an external monitor is reconnected — Free, open source
 - [Layouts](https://www.maclayouts.com/)
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 - [MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/)
