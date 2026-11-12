@@ -1378,6 +1378,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [TrackerStripper](https://github.com/itszero/TrackerStripper)
 - [uCopy](https://github.com/FaiChou/uCopy)
 - [uPaste](https://apps.apple.com/us/app/upaste-clipboard-manager/id1503649026?mt=12)
+- [Whisk](https://nathan-poncet.github.io/whisk/) by [Nathan Poncet](https://github.com/nathan-poncet) — A clipboard manager inspired by Paste — Free, [open source](https://github.com/nathan-poncet/whisk) (GPL-3.0 License)
 - [Xclip](https://apps.apple.com/us/app/xclip/id1623411951?mt=12)
 - [XCopy](https://apps.apple.com/us/app/xcopy-clipboard-manager/id1618581008?mt=12)
 - [Yippy](https://yippy.mattdavo.com)
