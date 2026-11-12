@@ -1289,6 +1289,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Dipper - Audio Capture](https://apps.apple.com/us/app/dipper-audio-capture/id6450242673?mt=12)
 - [eqMac](https://eqmac.app)
+- [Teclo](https://teclo.app/?utm_source=skaplanofficial-mac-menubar-megalist&utm_medium=directory&utm_content=listing) — Plays a mechanical keyboard sound for every key you press and release, in any app — 7-day free trial, then $4.99 one-time purchase
 
 ### Backups
 
