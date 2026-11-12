@@ -259,7 +259,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Quick Copy](https://apps.apple.com/us/app/quick-copy-searchable-snippets/id1456519049?mt=12)
 - [snippets](https://github.com/adeebshihadeh/snippets)
 - [Snippets Library](https://apps.apple.com/us/app/snippets-library/id1585687204?mt=12)
-- [SnipperApp 3](https://snipperapp.com)
+- [SnipperApp 3](https://snipperapp.com) by [Andrey Teologov](https://teologov.com/) — Code snippet manager accessible for AI via MCP — 7-day free trial, then $29.99 one-time purchase
 - [SourceDrop](https://apps.apple.com/us/app/sourcedrop/id520820413?mt=12)
 
 ### Git & GitHub
