@@ -2000,6 +2000,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Sound
 
+- [Klakk](https://tryklakk.com/en/?utm_source=mac-menubar-megalist&utm_medium=referral&utm_campaign=software_directory&utm_content=macos_menu_bar_listing) by [Levin](https://github.com/levindong2026) — Keyboard sounds with 14 built-in sound packs and audio output selection — 3-day trial from first launch, then US$6.99 one-time payment for the website Mac edition, plus tax
 - [QuickSound](https://github.com/tdimeco/QuickSound)
 
 ### Stocks
