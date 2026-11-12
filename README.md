@@ -355,6 +355,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Menify](https://github.com/ZinoKader/Menify)
 - [MenuBarControls](https://github.com/Ghosty141/MenuBarControls)
 - [Menubar Ticker](https://github.com/serban/menubar-ticker)
+- [Mooziac](https://github.com/shirkeharsh/mooziac) by [Harsh Shirke](https://github.com/shirkeharsh) — Native Swift menu bar YouTube Music player with trackpad edge volume gestures & synced lyrics — Free, open source (MIT License)
 - [MusicBar](https://github.com/Kentakoong/MusicBar)
 - [MusicBar](https://github.com/russelg/musicbar/)
 - [Music Bar](https://musa11971.github.io/Music-Bar/)
