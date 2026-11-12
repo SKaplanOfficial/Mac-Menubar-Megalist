@@ -359,6 +359,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [MusicBar](https://github.com/russelg/musicbar/)
 - [Music Bar](https://musa11971.github.io/Music-Bar/)
 - [MusicBuddy](https://apps.apple.com/us/app/musicbuddy/id563706976?mt=12)
+- [Needle](https://github.com/Yvsleyen00941/Needle) by [Yorben Vander Sleyen](https://yorben.me/) — Now Playing album art and title widget beside the Dock — Free, open source (MIT License)
 - [NepTunes](https://micropixels.software/apps/neptunes)
 - [NowPlayingMenuBar](https://github.com/TrevorBurnham/NowPlayingMenuBar)
 - [NowSpot](https://github.com/saivittalb/nowspot)
