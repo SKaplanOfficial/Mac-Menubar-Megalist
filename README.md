@@ -961,6 +961,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Me Focused](https://apps.apple.com/us/app/me-focused/id1546276197?mt=12)
 - [Mini Time Tracker](https://apps.apple.com/us/app/mini-time-tracker/id1633674659?mt=12)
 - [Owl Timekeeper](https://github.com/kawmra/Owl-Timekeeper)
+- [Planim Time](https://time.planim.app/jira) by [Planim](https://planim.app) — Time tracker for Jira with a one-click timer, two-way worklog sync, and offline-first local storage — Free tier with unlimited tracking and Jira sync, Pro $10/month adds auto-push, calendar and reports
 - [Prepend](https://apps.apple.com/us/app/prepend/id1584128314?mt=12)
 - [Recess](https://apps.apple.com/us/app/recess/id621451282?mt=12)
 - [RestMinder](https://apps.apple.com/us/app/restminder/id1575673623?mt=12)
