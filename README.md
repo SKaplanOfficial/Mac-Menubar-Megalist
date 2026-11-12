@@ -1272,7 +1272,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 #### AI API Usage
 
 - [Peek](https://mattspear.gumroad.com/l/peekapp)
-- [Usage HUD](https://hud.thaliabloom.com) by [Bloom Web Services](https://thaliabloom.com) — Native Mac menu-bar meter for Claude, Codex, Gemini, Grok, and Ollama usage windows; every number has a confidence label; local only; free. If CodexBar already works, you do not need this.
+- [Usage HUD](https://hud.thaliabloom.com) by [Bloom Web Services](https://thaliabloom.com) — One menu-bar meter for Codex, Claude, Gemini, Grok and local models, with a confidence label on every number — Free, [open source](https://github.com/Thalia-Bloom/usage-hud) (MIT License)
 
 #### AI Agents & AI Harnesses
 
