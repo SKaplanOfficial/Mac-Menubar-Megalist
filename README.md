@@ -641,6 +641,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### Meetings
 
+- [echo99](https://www.echo99.app/) by [Tomas Zeman](https://github.com/ertra) — Records calls with microphone and system audio as separate tracks, then transcribes and labels speakers on-device — Free (requires macOS 14.4+)
 - [Joining for Zoom Meetings](https://apps.apple.com/us/app/joining-for-zoom-meetings/id6615072860?mt=12)
 - [Jump In Meeting](https://apps.apple.com/us/app/jump-in-meeting-zoom-google/id1506451016)
 - [Meeter](https://apps.apple.com/us/app/meeter-for-zoom-teams-co/id1510445899)
