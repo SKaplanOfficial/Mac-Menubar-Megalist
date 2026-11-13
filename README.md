@@ -1545,6 +1545,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Quideo](https://apps.apple.com/us/app/quideo-convert-your-videos/id1619359160?mt=12)
 - [Screen Bandit](https://apps.apple.com/us/app/screen-bandit/id1043565969?mt=12) by [Milos & Slavko](https://web.archive.org/web/20160306180525/http://milos-and-slavica.net/)
 - [SizeMeUp](https://apps.apple.com/us/app/sizemeup-md-image-resizer/id6449094696?mt=12)
+- [Swivel](https://github.com/jonathanlotan/Swivel) by [jonathanlotan](https://github.com/jonathanlotan) — Convert, crop, compress and share files from a wheel that opens mid-drag — Free, open source
 - [Union](https://apps.apple.com/us/app/union/id1455272754?mt=12)
 - [Vookmark](https://apps.apple.com/us/app/vookmark-video-bookmarking/id1441742822?mt=12)
 
