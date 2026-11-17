@@ -1977,6 +1977,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [InsomniaX](https://insomniax.en.softonic.com/mac)
 - [Jiggler](http://www.sticksoftware.com/software/Jiggler.html)
 - [KeepingYouAwake](https://keepingyouawake.app)
+- [LidAwake](https://github.com/Vladimir-Podgornyi/LidAwake) by [Vladimir-Podgornyi](https://github.com/Vladimir-Podgornyi) — Keep your Mac awake with the lid closed, no external display needed, and let it sleep again when the work is done — Free, open source
 - [McAwake](https://github.com/taufiqxr/McAwake) by [taufiqxr](https://github.com/taufiqxr) — Keep your Mac awake even with the lid closed, no external display needed — Free, open source
 - [NeSleep](https://vishalroygeek.gumroad.com/l/nesleep)
 - [NoSleep](https://github.com/integralpro/nosleep)
