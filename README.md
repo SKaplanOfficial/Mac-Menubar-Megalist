@@ -1269,6 +1269,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Qwen4Mac](https://github.com/andreaturchet/Qwen4Mac)
 - [Shello.ai](https://apps.apple.com/us/app/shello-ai-desktop/id1666622039?mt=12)
 - [ShotSolve](https://shotsolve.com)
+- [Wishbar](https://wishbar.app) by Suvegasoft Limited — Type what you want in plain English and your own AI (ChatGPT through Codex, or Claude) builds it as a live widget in your menu bar — Free 7-day trial (no card), then $19 for 1 Mac until 7 December, pay once
 
 #### AI API Usage
 
