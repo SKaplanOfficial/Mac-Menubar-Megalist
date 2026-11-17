@@ -333,6 +333,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Music
 
+- [Argon](https://argonmac.com) — Turns the MacBook notch into a hub for music, files, notes, weather and calendar, with lyrics on the lock screen — 48-hour free trial, then €14.99 one-time purchase
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - [Baritone](https://tma02.github.io/baritone/)
 - [BarTunes](https://apps.apple.com/us/app/bartunes/id444425546?mt=12)
