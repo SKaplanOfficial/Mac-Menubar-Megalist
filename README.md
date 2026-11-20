@@ -1274,6 +1274,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Peek](https://mattspear.gumroad.com/l/peekapp)
 - [Usage HUD](https://hud.thaliabloom.com) by [Bloom Web Services](https://thaliabloom.com) — One menu-bar meter for Codex, Claude, Gemini, Grok and local models, with a confidence label on every number — Free, [open source](https://github.com/Thalia-Bloom/usage-hud) (MIT License)
+- [TokenBar](https://chaconlucas.github.io/tokenbar/) by [Lucas Chacon](https://github.com/ChaconLucas) — Claude Code, Codex, Copilot, Cursor, Gemini and other AI usage limits and reset times on a dot-matrix LED display in the menu bar, mirrored to iPhone, Apple Watch and Android — Free, [open source](https://github.com/ChaconLucas/tokenbar) (MIT License)
 
 #### AI Agents & AI Harnesses
 
