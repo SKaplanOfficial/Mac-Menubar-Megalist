@@ -1289,6 +1289,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 - [Dipper - Audio Capture](https://apps.apple.com/us/app/dipper-audio-capture/id6450242673?mt=12)
 - [eqMac](https://eqmac.app)
+- [LazyTune](https://github.com/Vic3z/LazyTune) by [Vic3z](https://github.com/Vic3z) — Lightweight menu bar per-app audio mixer with Zero-Touch Passthrough and universal F7–F9 media key control — Free, open source (GPL-3.0 License)
 
 ### Backups
 
