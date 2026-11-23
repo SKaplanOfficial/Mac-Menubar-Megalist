@@ -1664,6 +1664,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Wallpaper Menu](https://ylin.co)
 - [Wallpapers X](https://apps.apple.com/us/app/wallpapers-x-4k-wallpapers/id1488071784?mt=12)
 - [WallpDesk](https://github.com/axeII/WallpDesk)
+- [Wavedance](https://wave.dance)
 - [Web Wallpaper](https://widgetworx.com/projects/webwall.html) by [Ari Feldman](https://www.widgetworx.com/about/)
 - [Worldpaper](https://apps.apple.com/us/app/worldpaper-daily-wallpapers/id1465912903?mt=12)
 
