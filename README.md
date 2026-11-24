@@ -1375,6 +1375,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Pure Paste](https://sindresorhus.com/pure-paste)
 - [p2p-clipboard-mac](https://github.com/gnattu/p2p-clipboard-mac)
 - [Quick Clipboard](https://apps.apple.com/us/app/quick-clipboard-copy-paste/id1636064726?mt=12)
+- [SmartClip](https://github.com/reathloo/smartClip) by [reathloo](https://github.com/reathloo) — A private, encrypted clipboard history for macOS — Free, [open source](https://github.com/reathloo/smartClip) (MIT License)
 - [TrackerStripper](https://github.com/itszero/TrackerStripper)
 - [uCopy](https://github.com/FaiChou/uCopy)
 - [uPaste](https://apps.apple.com/us/app/upaste-clipboard-manager/id1503649026?mt=12)
