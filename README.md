@@ -2124,6 +2124,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [QuickShade](https://apps.apple.com/us/app/quickshade/id931571202?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Quitter](https://marco.org/apps#quitter) | Description needed | Author info needed | Pricing info needed |
 | [RDisk](https://github.com/stoqn4opm/RDisk) | Description needed | Author info needed | Pricing info needed |
+| [Safelight](https://github.com/mopfaff/Safelight) | Schedule macOS color filter to deep red, display brightness with DDC/CI, and Light/Dark appearance and wallpapers | [mopfaff](https://github.com/mopfaff) | Free, open source (GPL-3.0) |
 | [SampleRateBar](https://github.com/hug963/SampleRateBar) | Description needed | Author info needed | Pricing info needed |
 | [Screen Colors Filter](https://apps.apple.com/us/app/screen-colors-filter-color-tint-dim-hev-block/id1177401419?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [ScreenPosition](https://apps.apple.com/us/app/screenposition/id1229498568?mt=12) | Description needed | Author info needed | Pricing info needed |
