@@ -1382,6 +1382,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | --- | --- | --- | --- |
 | [Dipper - Audio Capture](https://apps.apple.com/us/app/dipper-audio-capture/id6450242673?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [eqMac](https://eqmac.app) | Description needed | Author info needed | Pricing info needed |
+| [Headphone Control](https://apps.apple.com/app/id6833635897) | Control Sony WH-1000XM5 ANC, ambient sound, EQ, battery and Mac/iPhone audio switching from the menu bar (macOS 14+, Mac App Store) | [Rüzgar Kurt](https://kulaklikkontrol.github.io/) | Free |
 
 ### Backups
 
