@@ -1364,6 +1364,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Presentation Mode](https://github.com/Kah00ted/Presentation-Mode) | Description needed | Author info needed | Pricing info needed |
 | [Quitter](https://github.com/Aayush9029/Quitter) | Description needed | Author info needed | Deleted Repository |
 | [RenderFocus](https://celalbasaran.com/renderfocus/) | CPU scheduling utility that optimizes task distribution between P-Cores and E-Cores | [Celal Başaran](https://celalbasaran.com/) | 14-day free trial, then $2.49/month or $24.99 one-time purchase |
+| [TripleClick](https://github.com/wilu222/tripleclick) | Click the trackpad with three fingers to middle-click, with an optional middle-drag | [wilu222](https://github.com/wilu222) | Free, open source (MIT License) |
 | [WhyFi](https://github.com/OzTamir/WhyFi/) | Description needed | Author info needed | Pricing info needed |
 | [Zoom Mute Status](https://github.com/abersager/zoom-mute-status) | Description needed | Author info needed | Pricing info needed |
 
