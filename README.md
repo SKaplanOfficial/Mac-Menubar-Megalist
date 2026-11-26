@@ -2318,6 +2318,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [SnapHotkey](https://snaphotkey.com) | Map keyboard hotkeys directly to specific apps for instant switching. Press once to focus, press again to hide | [codecounter](https://github.com/codecounter) | Free tier with limited features, full version for $9.99 one-time payment after 15-day free trial |
 | [SomLauncher](https://www.somapplication.com/launcher) | Launch all your workflows in one click | [Magnus von Scheele](https://github.com/magnusvs) | Free, open source |
 | [start](https://apps.apple.com/us/app/start/id1329701389?mt=12) | Description needed | Author info needed | Pricing info needed |
+| [SupaSidebar](https://supasidebar.com/?r=megalist) | Arc-like sidebar for all browsers. View or fuzzy search open tabs and bookmarks across browsers, one shortcut away | [Kshetez Vinayak](https://github.com/auspy) | Free tier limited to 3 spaces, $29.99 one-time payment for unlimited spaces & 1 year of updates, $79 one-time payment for lifetime updates |
 | [Switcheroo](https://apps.apple.com/us/app/switcheroo-fast-app-switcher/id1198084875?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Tab Switcher](https://apps.apple.com/us/app/tabs-switcher/id1406718335?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Tabz](https://apps.apple.com/us/app/tabz/id1449417295?mt=12) | Description needed | Author info needed | Pricing info needed |
