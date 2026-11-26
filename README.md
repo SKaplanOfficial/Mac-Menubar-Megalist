@@ -1355,6 +1355,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Maccy](https://maccy.app)
 - [Mockingbird](https://github.com/brigonzalez/Mockingbird)
 - [Macopy](https://macopy.kk-web.link) by [Kouhei Kawamura (piro)](https://kk-web.link) — A minimal clipboard history tool — Free, open-source
+- [noswitch](https://www.nosub.dev/noswitch) by [nosub](https://www.nosub.dev) — Notch hub with clipboard history, screenshots, a file shelf, Claude Code and Codex status, and keep-awake — $9.99 one-time
 - [OmniCopy](https://apps.apple.com/us/app/omnicopy/id1211469284?mt=12)
 - [Pasta](https://apps.apple.com/us/app/pasta/id1438389787?mt=12)
 - [Pasteboard](https://github.com/liang2kl/Pasteboard)
