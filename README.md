@@ -1950,6 +1950,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Dozer](https://github.com/Mortennn/Dozer) | Description needed | Author info needed | Pricing info needed |
 | [Hideaway](https://github.com/kuglee/Hideaway) | Description needed | Author info needed | Pricing info needed |
 | [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) | Description needed | Author info needed | Pricing info needed |
+| [holzBar](https://github.com/holzcloud/holzBar) | Menu bar manager with profiles, hotkeys, automation, widgets, and system readouts, forked from Ice | [holzcloud](https://github.com/holzcloud) | Free, open source (GPL-3.0 License) |
 | [iBar](https://apps.apple.com/us/app/ibar-menubar-icon-control-tool/id6443843900?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Ice](https://github.com/jordanbaird/Ice) | Description needed | Author info needed | Pricing info needed |
 | [Menu Bar Spacing](https://sindresorhus.com/menu-bar-spacing) | Description needed | Author info needed | Pricing info needed |
