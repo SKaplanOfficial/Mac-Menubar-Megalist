@@ -179,6 +179,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ## Developer Utilities
 
+### Cloud
+
 | Name | Description | Creator | Notes |
 | --- | --- | --- | --- |
 | [Airtool](https://www.intuitibits.com/products/airtool2/) | Capture Wi-Fi traffic like a Pro | [Intuitibits, LLC.](https://www.intuitibits.com/) | 3-day free trial, then $29.99 |
@@ -193,8 +195,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Chameleon](https://chameleon.level3studios.net) | Description needed | Author info needed | Pricing info needed |
 | [CI Demon](https://github.com/ospfranco/cidemon) | Monitor your CI jobs | [Oscar Franco](https://ospfranco.com/) | Free, open source |
 | [CleanerXcode](https://github.com/didisouzacosta/CleanerXcode) | Remove derived data, build caches, and simulator data from Xcode | [Adriano Souza Costa](https://adrianosouzacosta.com.br) | Free, open source |
-| [Contexto](https://github.com/alrico88/contexto) | Description needed | Author info needed | Pricing info needed |
 | [Cloud Control for EC2](https://apps.apple.com/us/app/cloud-control-for-ec2/id1550877675?mt=12) | Start and stop AWS EC2 Instances | [Jose Canahui](https://apps.apple.com/us/developer/jose-canahui/id1549443849) | Free |
+| [Contexto](https://github.com/alrico88/contexto) | Description needed | Author info needed | Pricing info needed |
 | [DevBar](https://github.com/boxed/DevBar) | Watches a URL and displays available actions defined in the response | [Anders Hovmöller](https://kodare.net/) | Free, open source |
 | [Devmarks Menubar](https://github.com/adamghill/devmarks-menubar) | Menubar app for [devmarks.io](https://devmarks.io) | [Adam Hill](https://adamghill.com/) | Free, open source |
 | [DockerMenu](https://github.com/rdsubhas/menubar-docker) | Menubar app for Docker built on Electron | [Subhas Dandapani](https://github.com/rdsubhas) | Free, open source |
@@ -226,6 +228,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Netlify Deploy Status](https://apps.apple.com/us/app/netlify-deploy-status/id6736578147?mt=12) | Monitor Netlify deploy status and get real-time updates | [Clement Rousseau](https://clemstation.com) | Free tier, $0.59 one-time purchase to enable custom icons |
 | [Netlok](https://github.com/ea/netlok) | Network location switcher that displays your external IP address | [Aleksandar Nikolic](https://github.com/ea) | Free, open source |
 | [NeuroX](https://github.com/rebryk/neurox) | Description needed | Author info needed | Pricing info needed |
+| [Oh My Android](https://github.com/ateymoori/oh-my-android) | Control panel for the Android Emulator and adb devices: dark mode, font scale, RTL, TalkBack, plus an MCP server | [Amir Teymoori](https://github.com/ateymoori) | Free, open source |
 | [OpenPorts](https://openports.app) | Simple port scanner | [Guilherme Oenning](https://goenning.net/) | Free |
 | [PiBar](https://github.com/amiantos/pibar) | Manage your Pi-hole(s) | [Brad Root](https://bradroot.me/) | Free, open source |
 | [Port Manager](https://jim1es.gumroad.com/l/xTJlY) | Find, open, and kill ports | [Jimmy Loughran](https://github.com/j1mie) | Free, $3.99 donation requested but not required |
