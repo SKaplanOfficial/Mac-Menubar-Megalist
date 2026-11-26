@@ -1762,6 +1762,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [Dozer](https://github.com/Mortennn/Dozer)
 - [Hideaway](https://github.com/kuglee/Hideaway)
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12)
+- [holzBar](https://github.com/holzcloud/holzBar) by [holzcloud](https://github.com/holzcloud) — Menu bar manager with profiles, hotkeys, automation, widgets, and system readouts, forked from Ice — Free, open source (GPL-3.0 License)
 - [iBar](https://apps.apple.com/us/app/ibar-menubar-icon-control-tool/id6443843900?mt=12)
 - [Ice](https://github.com/jordanbaird/Ice)
 - [Menu Bar Spacing](https://sindresorhus.com/menu-bar-spacing)
