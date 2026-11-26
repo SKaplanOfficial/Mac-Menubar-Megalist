@@ -288,6 +288,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 - [PullRequestMenu](https://apps.apple.com/us/app/pullrequestmenu/id919797974?mt=12)
 - [Quests](https://apps.apple.com/us/app/quests/id1447415753?mt=12)
 - [Remmi](https://github.com/phoqe/Remmi)
+- [Sill](https://apps.apple.com/us/app/sill-daily-standup-work-log/id6823163147?mt=12) — Writes your daily standup from your local git commits (messages and times only, no code) and keeps a work log — Free tier, optional Sill Pro subscription or one-time purchase
 - [Source Notify](https://apps.apple.com/us/app/source-notify/id1570433591?mt=12)
 - [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) by [Alexander Malakhov](https://github.com/jazzyalex) — Track public GitHub repo stars and release downloads from the menu bar — Free, open source
 - [streak-bar](https://apps.apple.com/us/app/streak-bar/id6464448808?mt=12)
