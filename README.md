@@ -15,11 +15,21 @@ If you find that an app is missing, that any of the links are broken, or that th
   <ol>
       <li><a href="#contacts">Contacts</a></li>
       <li><a href="#decoration">Decoration</a></li>
-      <li><a href="#developer-utilities">Developer Utilities</a></li>
+      <li><a href="#developer-utilities">Developer Utilities</a>
+          <ol>
+              <li><a href="#cloud">Cloud</a></li>
+              <li><a href="#codetext-snippets">Code/Text Snippets</a></li>
+              <li><a href="#git--github">Git & GitHub</a></li>
+              <li><a href="#package-management">Package Management</a></li>
+          </ol>
+      </li>
       <li><a href="#entertainment">Entertainment</a>
           <ol>
-              <li><a href="#games">Games</a></li>
-              <li><a href="#game-utilities">Game Utilities</a></li>
+              <li><a href="#games">Games</a>
+                  <ol>
+                      <li><a href="#game-utilities">Game Utilities</a></li>
+                  </ol>
+              </li>
               <li><a href="#imagesgifs">Images/GIFs</a></li>
               <li><a href="#music">Music</a></li>
               <li><a href="#moviesvideos">Movies/Videos</a></li>
@@ -41,37 +51,61 @@ If you find that an app is missing, that any of the links are broken, or that th
       </li>
       <li><a href="#productivity">Productivity</a>
           <ol>
-              <li><a href="#activity-tracking">Activity Tracking</a></li>
-              <li><a href="#background-sounds">Background Sounds</a></li>
-              <li><a href="#calendar">Calendar</a></li>
-              <li><a href="#meetings">Meetings</a></li>
+              <li><a href="#activity-tracking">Activity Tracking</a>
+                  <ol>
+                      <li><a href="#background-sounds">Background Sounds</a></li>
+                  </ol>
+              </li>
+              <li><a href="#calendar">Calendar</a>
+                  <ol>
+                      <li><a href="#upcoming-meetings">Upcoming Meetings</a></li>
+                  </ol>
+              </li>
               <li><a href="#email">Email</a></li>
-              <li><a href="#notes">Notes</a></li>
+              <li><a href="#notes">Notes</a>
+                  <ol>
+                      <li><a href="#audio-notes">Audio Notes</a></li>
+                      <li><a href="#sticky-notes">Sticky Notes</a></li>
+                  </ol>
+              </li>
               <li><a href="#notifications">Notifications</a></li>
-              <li><a href="#audio-notes">Audio Notes</a></li>
-              <li><a href="#sticky-notes">Sticky Notes</a></li>
               <li><a href="#productivity-aides">Productivity Aides</a></li>
               <li><a href="#task-management">Task Management</a></li>
-              <li><a href="#timers--stopwatches">Timers & Stopwatches</a></li>
-              <li><a href="#alarms">Alarms</a></li>
-              <li><a href="#awareness-timers">Awareness Timers</a></li>
-              <li><a href="#timehabit-tracking">Time/Habit Tracking</a></li>
+              <li><a href="#timers--stopwatches">Timers & Stopwatches</a>
+                  <ol>
+                      <li><a href="#alarms">Alarms</a></li>
+                      <li><a href="#awareness-timers">Awareness Timers</a></li>
+                      <li><a href="#timehabit-tracking">Time/Habit Tracking</a></li>
+                  </ol>
+              </li>
           </ol>
       </li>
       <li><a href="#social-media">Social Media</a></li>
       <li><a href="#reference">Reference</a></li>
       <li><a href="#system-status">System Status</a>
           <ol>
-              <li><a href="#local-system-status">Local System Status</a></li>
-              <li><a href="#external-system-status">External System Status</a></li>
+              <li><a href="#local-system-status">Local System Status</a>
+                  <ol>
+                      <li><a href="#external-system-status">External System Status</a></li>
+                  </ol>
+              </li>
           </ol>
       </li>
       <li><a href="#travel--transit">Travel & Transit</a></li>
       <li><a href="#utilities">Utilities</a>
           <ol>
-              <li><a href="#ai">AI</a></li>
+              <li><a href="#ai">AI</a>
+                  <ol>
+                      <li><a href="#ai-api-usage">AI API Usage</a></li>
+                      <li><a href="#ai-agents--ai-harnesses">AI Agents & AI Harnesses</a></li>
+                  </ol>
+              </li>
               <li><a href="#art">Art</a></li>
-              <li><a href="#audio">Audio</a></li>
+              <li><a href="#audio">Audio</a>
+                  <ol>
+                      <li><a href="#speech--transcription">Speech & Transcription</a></li>
+                  </ol>
+              </li>
               <li><a href="#backups">Backups</a></li>
               <li><a href="#business">Business</a></li>
               <li><a href="#camera">Camera</a></li>
@@ -119,13 +153,20 @@ If you find that an app is missing, that any of the links are broken, or that th
                       <li><a href="#passwords">Passwords</a></li>
                   </ol>
               </li>
-              <li><a href="#settings">Settings</a></li>
+              <li><a href="#settings">Settings</a>
+                  <ol>
+                      <li><a href="#accessibility">Accessibility</a></li>
+                      <li><a href="#browser-switching">Browser Switching</a></li>
+                      <li><a href="#caffeinators">Caffeinators</a></li>
+                      <li><a href="#resolution">Resolution</a></li>
+                  </ol>
+              </li>
               <li><a href="#sound">Sound</a></li>
               <li><a href="#stocks">Stocks</a></li>
               <li><a href="#shortcuts--launchers">Shortcuts & Launchers</a></li>
               <li><a href="#text">Text</a>
                   <ol>
-                      <li><a href="#speech">Speech</a></li>
+                      <li><a href="#text-to-speech">Text to Speech</a></li>
                       <li><a href="#translation">Translation</a></li>
                   </ol>
               </li>
@@ -260,13 +301,13 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [CodeGofer](https://apps.apple.com/us/app/codegofer/id730254832?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Codelime](https://indiegoodies.com/codelime) | Snippet manager with dev tools for iOS development | [IndieGoodies](https://indiegoodies.com/) | Free up to 10 snippets, then $0.99/month subscription or $19.99 one-time purchase for unlimited use |
 | [Command Keeper](https://www.widgetworx.com/apps/commandkeeper.html) | Fast, lightweight snippet manager | [Ari Feldman](https://www.widgetworx.com/about/) | Free |
-| [Dropa](https://apps.apple.com/us/app/dropa/id1362416136?mt=12) | Description needed | [author][url] | Pricing info needed |
-| [Limpet](https://alexgoff.gumroad.com/l/limpet) | Description needed | [author][url] | Pricing info needed |
-| [Quick Copy](https://apps.apple.com/us/app/quick-copy-searchable-snippets/id1456519049?mt=12) | Description needed | [author][url] | Pricing info needed |
-| [snippets](https://github.com/adeebshihadeh/snippets) | Description needed | [author][url] | Pricing info needed |
-| [Snippets Library](https://apps.apple.com/us/app/snippets-library/id1585687204?mt=12) | Description needed | [author][url] | Pricing info needed |
+| [Dropa](https://apps.apple.com/us/app/dropa/id1362416136?mt=12) | Description needed | Author info needed | Pricing info needed |
+| [Limpet](https://alexgoff.gumroad.com/l/limpet) | Description needed | Author info needed | Pricing info needed |
+| [Quick Copy](https://apps.apple.com/us/app/quick-copy-searchable-snippets/id1456519049?mt=12) | Description needed | Author info needed | Pricing info needed |
+| [snippets](https://github.com/adeebshihadeh/snippets) | Description needed | Author info needed | Pricing info needed |
+| [Snippets Library](https://apps.apple.com/us/app/snippets-library/id1585687204?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [SnipperApp 3](https://snipperapp.com) | Code snippet manager accessible for AI via MCP | [Andrey Teologov](https://teologov.com/) | 7-day free trial, then $29.99 one-time purchase |
-| [SourceDrop](https://apps.apple.com/us/app/sourcedrop/id520820413?mt=12) | Description needed | [author][url] | Pricing info needed |
+| [SourceDrop](https://apps.apple.com/us/app/sourcedrop/id520820413?mt=12) | Description needed | Author info needed | Pricing info needed |
 
 ### Git & GitHub
 
@@ -688,7 +729,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [WeeNu](https://github.com/mullweisser/mac-weenu) | Description needed | Author info needed | Pricing info needed |
 | [What Week](https://apps.apple.com/us/app/what-week/id6472891132?mt=12) | Description needed | Author info needed | Pricing info needed |
 
-#### Meetings
+#### Upcoming Meetings
 
 | Name | Description | Creator | Notes |
 | --- | --- | --- | --- |
@@ -764,12 +805,6 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Tot](https://apps.apple.com/us/app/tot/id1491071483?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [tyke](https://tyke.app) | Description needed | Author info needed | Pricing info needed |
 
-### Notifications
-
-| Name | Description | Creator | Notes |
-| --- | --- | --- | --- |
-| [Chirpy](https://chirpypro.gumroad.com/l/chirpy-custom-notification-sounds) | Description needed | Author info needed | Basic is free, Pro is paid |
-
 #### Audio Notes
 
 | Name | Description | Creator | Notes |
@@ -777,7 +812,6 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [AudioNotes](https://audionot.es) | Description needed | Author info needed | Pricing info needed |
 | [Clip](https://github.com/nkalupahana/Clip) | Description needed | Author info needed | Pricing info needed |
 | [eXtra Voice Recorder](https://apps.apple.com/us/app/extra-voice-recorder/id514587383?mt=12) | Description needed | Author info needed | Pricing info needed |
-| [Quick Note](https://apps.apple.com/us/app/quick-note-one-click-notes/id1472935217?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Recordia](https://sindresorhus.com/recordia) | Description needed | Author info needed | Pricing info needed |
 
 #### Sticky Notes
@@ -789,6 +823,12 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Simple Antnotes](https://apps.apple.com/us/app/simple-antnotes/id846599902?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Stickier](https://camazotz.com/stickier/) | Description needed | [Mark Smith (Camazotz)](https://camazotz.com) | Pricing info needed |
 | [Sticklets](https://apps.apple.com/us/app/sticklets/id1633701470?mt=12) | Description needed | Author info needed | Pricing info needed |
+
+### Notifications
+
+| Name | Description | Creator | Notes |
+| --- | --- | --- | --- |
+| [Chirpy](https://chirpypro.gumroad.com/l/chirpy-custom-notification-sounds) | Description needed | Author info needed | Basic is free, Pro is paid |
 
 ### Productivity Aides
 
@@ -1387,6 +1427,13 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Dipper - Audio Capture](https://apps.apple.com/us/app/dipper-audio-capture/id6450242673?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [eqMac](https://eqmac.app) | Description needed | Author info needed | Pricing info needed |
 | [Headphone Control](https://apps.apple.com/app/id6833635897) | Control Sony WH-1000XM5 ANC, ambient sound, EQ, battery and Mac/iPhone audio switching from the menu bar (macOS 14+, Mac App Store) | [Rüzgar Kurt](https://kulaklikkontrol.github.io/) | Free |
+
+#### Speech & Transcription
+
+| Name | Description | Creator | Notes |
+| --- | --- | --- | --- |
+| [AI Dictation](https://aidictation.com) | Voice-to-text from the menu bar with offline recognition on supported devices and optional cloud transcription and cleanup | [Writingmate](https://github.com/writingmate) | Free tier, MIT-licensed native client source |
+| [echo99](https://www.echo99.app/) | Records calls with microphone and system audio as separate tracks, then transcribes and labels speakers on-device | [Tomas Zeman](https://github.com/ertra) | Free (requires macOS 14.4+) |
 
 ### Backups
 
@@ -2322,11 +2369,10 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Word Counter Pro](https://apps.apple.com/us/app/word-counter-pro/id979374471?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [wordsquirt](https://github.com/ostcrom/wordsquirt) | Description needed | Author info needed | Pricing info needed |
 
-#### Speech
+#### Text to Speech
 
 | Name | Description | Creator | Notes |
 | --- | --- | --- | --- |
-| [AI Dictation](https://aidictation.com) | Voice-to-text from the menu bar with offline recognition on supported devices and optional cloud transcription and cleanup | [Writingmate](https://github.com/writingmate) | Free tier, MIT-licensed native client source |
 | [AudioBuddy](https://zeitalabs.gumroad.com/l/audiobuddy) | Description needed | Author info needed | Pricing info needed |
 | [QuickSpeak](https://apps.apple.com/us/app/quickspeak-text-to-speech/id1669506658?mt=12) | Description needed | Author info needed | Pricing info needed |
 
