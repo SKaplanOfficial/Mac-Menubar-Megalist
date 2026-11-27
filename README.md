@@ -2553,6 +2553,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 | Name | Description | Creator | Notes |
 | --- | --- | --- | --- |
+| [CineNotch](https://cinenotch.cam/?ref=mac-menubar-megalist) | Docks Safari and Chrome Picture in Picture into the MacBook notch so the video isn't over your work | [Nikita Verba](https://github.com/NikOneZ1) | $14.99 one-time, open source (GPLv3) |
 | [PiPHero](https://piphero.app) | Description needed | Author info needed | Pricing info needed |
 
 ## Web Search
