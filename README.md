@@ -1434,6 +1434,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | --- | --- | --- | --- |
 | [AI Dictation](https://aidictation.com) | Voice-to-text from the menu bar with offline recognition on supported devices and optional cloud transcription and cleanup | [Writingmate](https://github.com/writingmate) | Free tier, MIT-licensed native client source |
 | [echo99](https://www.echo99.app/) | Records calls with microphone and system audio as separate tracks, then transcribes and labels speakers on-device | [Tomas Zeman](https://github.com/ertra) | Free (requires macOS 14.4+) |
+| [Equilibrio](https://equilibrio.crncevic.org) | Noise-removing microphone for any call app, meeting transcripts with who said what, and hold-a-key dictation, all on-device | [Lovre](https://github.com/crnc3vic) | Noise removal and transcripts free for 20 min of each call, EUR 19 one-time per Mac (requires macOS 15+, Apple silicon) |
 
 ### Backups
 
