@@ -842,6 +842,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Isolator](https://www.willmore.eu/software/isolator/) | Description needed | Author info needed | Pricing info needed |
 | [KeepOff](https://github.com/s3cr3tmyth/KeepOff) | Description needed | Author info needed | Pricing info needed |
 | [Monocle](https://monocle.heyiam.dk) | Description needed | [Dominik Kandravý](https://www.heyiam.dk) | 7-day free trial, then $4 one-time purchase |
+| [Seawall](https://seawall.work/?utm_source=mac-menubar-megalist&utm_medium=listing) | Menu bar blocker that locks distracting sites and apps until a set time; leaving early takes a wait | [Nikita Verba](https://github.com/NikOneZ1) | $14.99 one-time, up to 3 Macs, 14-day refund; source GPL-3.0 |
 
 ### Task Management
 
