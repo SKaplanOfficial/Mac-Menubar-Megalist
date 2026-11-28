@@ -211,6 +211,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [Last thing](https://github.com/davideagostini/last_thing) | Put one task in your menu bar | [Davide Agostini](https://github.com/davideagostini) | Free, open source |
 | [Lickable Menu Bar](https://apps.apple.com/us/app/lickable-menu-bar/id6444217677?mt=12) | Bring back classic menu bars | [Honghao Zhang](https://github.com/honghaoz) | Free |
 | [Logoer](https://github.com/lihaoyun6/Logoer) | Change the style of the Apple logo in macOS menu bar | [Li Haoyun](https://github.com/lihaoyun6) | Free, open source |
+| [Lunille](https://lunille.com/?ref=gh-megalist) | A little moon that lives in your MacBook's notch and reacts to your music, AirPods and the weather | [dorukyksl](https://github.com/dorukyksl) | 14-day free trial, $14.99 one-time payment for up to 3 Macs |
 | [Menu Bar Tint](https://manytricks.com/menubartint/) | Set colors and translucency for three sections of the menu bar | [Many Tricks](https://manytricks.com) | Free |
 | [One Thing](https://sindresorhus.com/one-thing) | Put a single task or goal in your menu bar | [Sindre Sorhus](https://sindresorhus.com) | Free |
 | [ParrotBar](https://apps.apple.com/us/app/parrotbar/id6618137282?mt=12) | Parrot party in your menu bar | [Michael Murdock](https://github.com/murdockma) | Free |
