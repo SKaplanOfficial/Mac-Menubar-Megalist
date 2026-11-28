@@ -1182,6 +1182,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [eul](https://apps.apple.com/us/app/eul/id1537133867?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Fanny](https://fannywidget.com) | Description needed | Author info needed | Pricing info needed |
 | [Fast.com Speedtest](https://github.com/doshprompt/fast-menubar) | Description needed | Author info needed | Pricing info needed |
+| [Floodtide](https://bhopstudio.com/floodtide) | Checks installed apps for updates, shows the waiting count in the menu bar and installs them together; can run menu bar only | [bhopstudio](https://bhopstudio.com) | Free to scan, £10.99 one-time to install |
 | [Free Space Display](https://blinkshow0i.wixsite.com/my-site) | Description needed | Author info needed | Pricing info needed |
 | [Gaufre](https://github.com/Shakshi3104/Gaufre) | Description needed | Author info needed | Pricing info needed |
 | [gfcCardStatus](https://gfx.io) | Description needed | Author info needed | Pricing info needed |
