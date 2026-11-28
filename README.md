@@ -1954,6 +1954,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 | [holzBar](https://github.com/holzcloud/holzBar) | Menu bar manager with profiles, hotkeys, automation, widgets, and system readouts, forked from Ice | [holzcloud](https://github.com/holzcloud) | Free, open source (GPL-3.0 License) |
 | [iBar](https://apps.apple.com/us/app/ibar-menubar-icon-control-tool/id6443843900?mt=12) | Description needed | Author info needed | Pricing info needed |
 | [Ice](https://github.com/jordanbaird/Ice) | Description needed | Author info needed | Pricing info needed |
+| [Menu Bar Reveal](https://github.com/srobinson/menubar-reveal) | One shortcut reveals the menu bar; the same shortcut hides it. | [srobinson](https://github.com/srobinson) | Free, open source (MIT License) |
 | [Menu Bar Spacing](https://sindresorhus.com/menu-bar-spacing) | Description needed | Author info needed | Pricing info needed |
 | [Menu Bar Splitter](https://github.com/jwhamilton99/menu-bar-splitter) | Description needed | Author info needed | Pricing info needed |
 | [Piksy](https://apps.apple.com/us/app/piksy/id6741357895?mt=12) | Description needed | Author info needed | Pricing info needed |
